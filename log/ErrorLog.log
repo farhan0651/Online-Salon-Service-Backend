@@ -1,0 +1,2199 @@
+17-Oct-2022 20:31:50 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 3368 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 20:31:50 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+17-Oct-2022 20:31:50 INFO - No active profile set, falling back to 1 default profile: "default"
+17-Oct-2022 20:34:53 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22200 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 20:34:53 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 20:34:53 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 20:38:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15104 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 20:38:05 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 20:38:05 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 20:40:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 20:40:01 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 20:40:01 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 20:40:09 INFO - Started OnlineSsApplication in 9.047 seconds (JVM running for 10.915)
+17-Oct-2022 20:56:32 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 20:56:32 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 20:56:32 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 20:56:39 INFO - Started OnlineSsApplication in 7.0 seconds (JVM running for 1000.739)
+17-Oct-2022 20:56:40 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 20:56:40 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 20:56:40 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 20:56:43 INFO - Started OnlineSsApplication in 3.17 seconds (JVM running for 1005.229)
+17-Oct-2022 21:25:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:25:24 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:25:24 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:25:27 INFO - Started OnlineSsApplication in 2.76 seconds (JVM running for 2728.702)
+17-Oct-2022 21:49:44 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:49:44 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:49:44 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:50:22 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:50:22 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:50:22 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:50:25 INFO - Started OnlineSsApplication in 3.531 seconds (JVM running for 4227.055)
+17-Oct-2022 21:50:45 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:50:45 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:50:45 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:50:49 INFO - Started OnlineSsApplication in 3.505 seconds (JVM running for 4250.686)
+17-Oct-2022 21:51:41 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:51:41 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:51:41 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:51:45 INFO - Started OnlineSsApplication in 4.196 seconds (JVM running for 4306.935)
+17-Oct-2022 21:52:36 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:52:36 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:52:36 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:52:38 INFO - Started OnlineSsApplication in 2.442 seconds (JVM running for 4359.913)
+17-Oct-2022 21:53:16 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:53:16 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:53:16 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:53:18 INFO - Started OnlineSsApplication in 2.847 seconds (JVM running for 4400.213)
+17-Oct-2022 21:53:38 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:53:38 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:53:38 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 21:53:42 INFO - Started OnlineSsApplication in 3.785 seconds (JVM running for 4423.818)
+17-Oct-2022 21:53:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22060 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 21:53:59 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 21:53:59 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:06:16 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:06:16 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:06:16 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:06:20 INFO - Started OnlineSsApplication in 4.313 seconds (JVM running for 5181.945)
+17-Oct-2022 22:11:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:11:06 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:11:06 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:11:10 INFO - Started OnlineSsApplication in 3.615 seconds (JVM running for 5471.38)
+17-Oct-2022 22:14:34 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:14:34 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:14:34 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:14:50 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:14:50 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:14:50 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:14:53 INFO - Started OnlineSsApplication in 2.911 seconds (JVM running for 5695.085)
+17-Oct-2022 22:15:40 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:15:40 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:15:40 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:15:43 INFO - Started OnlineSsApplication in 2.867 seconds (JVM running for 5744.758)
+17-Oct-2022 22:16:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:16:07 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:16:07 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:16:10 INFO - Started OnlineSsApplication in 3.273 seconds (JVM running for 5772.158)
+17-Oct-2022 22:19:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:19:39 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:19:39 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:19:45 INFO - Started OnlineSsApplication in 5.507 seconds (JVM running for 5986.589)
+17-Oct-2022 22:21:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:21:08 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:21:08 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:21:10 INFO - Started OnlineSsApplication in 2.869 seconds (JVM running for 6072.214)
+17-Oct-2022 22:21:22 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:21:22 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:21:22 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:21:26 INFO - Started OnlineSsApplication in 3.841 seconds (JVM running for 6087.909)
+17-Oct-2022 22:37:57 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:37:57 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:37:57 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:38:00 INFO - Started OnlineSsApplication in 3.25 seconds (JVM running for 7082.086)
+17-Oct-2022 22:38:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:38:51 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:38:51 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:38:54 INFO - Started OnlineSsApplication in 3.084 seconds (JVM running for 7135.866)
+17-Oct-2022 22:39:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:39:21 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:39:21 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:39:29 INFO - Started OnlineSsApplication in 8.049 seconds (JVM running for 7171.187)
+17-Oct-2022 22:40:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:40:28 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:40:28 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:40:30 INFO - Started OnlineSsApplication in 1.598 seconds (JVM running for 7231.566)
+17-Oct-2022 22:40:53 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:40:53 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:40:53 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:40:56 INFO - Started OnlineSsApplication in 2.829 seconds (JVM running for 7257.638)
+17-Oct-2022 22:41:57 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21144 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:41:57 DEBUG - Running with Spring Boot v2.6.2, Spring v5.3.14
+17-Oct-2022 22:41:57 INFO - No active profile set, falling back to default profiles: default
+17-Oct-2022 22:42:01 INFO - Started OnlineSsApplication in 3.683 seconds (JVM running for 7322.64)
+17-Oct-2022 22:42:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22920 (C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS\target\classes started by princ in C:\Users\princ\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\OnlineSS)
+17-Oct-2022 22:42:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+17-Oct-2022 22:42:04 INFO - No active profile set, falling back to 1 default profile: "default"
+17-Oct-2022 23:19:38 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 19664 (D:\Downloads\OnlineS_S-main\OnlineS_S-main\target\classes started by FK in D:\Downloads\OnlineS_S-main\OnlineS_S-main)
+17-Oct-2022 23:19:38 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+17-Oct-2022 23:19:38 INFO - No active profile set, falling back to 1 default profile: "default"
+17-Oct-2022 23:19:44 INFO - Started OnlineSsApplication in 6.356 seconds (JVM running for 7.636)
+17-Oct-2022 23:28:26 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 24448 (D:\Downloads\OnlineS_S-main\OnlineS_S-main\target\classes started by FK in D:\Downloads\OnlineS_S-main\OnlineS_S-main)
+17-Oct-2022 23:28:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+17-Oct-2022 23:28:26 INFO - No active profile set, falling back to 1 default profile: "default"
+17-Oct-2022 23:28:33 INFO - Started OnlineSsApplication in 7.175 seconds (JVM running for 8.416)
+18-Oct-2022 00:09:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22772 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 00:09:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 00:09:24 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 00:10:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16908 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 00:10:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 00:10:51 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 00:12:29 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16720 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 00:12:29 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 00:12:29 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 00:12:38 INFO - Started OnlineSsApplication in 9.772 seconds (JVM running for 11.65)
+18-Oct-2022 09:55:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16720 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 09:55:21 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 09:55:21 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 09:55:26 INFO - Started OnlineSsApplication in 4.658 seconds (JVM running for 34982.408)
+18-Oct-2022 09:57:02 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16720 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 09:57:02 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 09:57:02 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 09:57:09 INFO - Started OnlineSsApplication in 7.546 seconds (JVM running for 35085.236)
+18-Oct-2022 09:57:37 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16720 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 09:57:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 09:57:37 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 09:57:41 INFO - Started OnlineSsApplication in 3.949 seconds (JVM running for 35117.79)
+18-Oct-2022 10:00:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16720 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:00:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:00:24 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:00:28 INFO - Started OnlineSsApplication in 4.304 seconds (JVM running for 35284.461)
+18-Oct-2022 10:00:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15740 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:00:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:00:28 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:01:45 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16720 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:01:45 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:01:45 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:01:48 INFO - Started OnlineSsApplication in 2.957 seconds (JVM running for 35364.874)
+18-Oct-2022 10:02:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22848 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:02:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:02:01 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:03:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 17220 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:03:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:03:04 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:03:48 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15608 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:03:48 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:03:48 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:03:58 INFO - Started OnlineSsApplication in 10.035 seconds (JVM running for 11.851)
+18-Oct-2022 10:07:34 INFO - Starting SalonServiceApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 13524 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:07:34 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:07:34 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:07:51 INFO - Started SalonServiceApplicationTests in 18.033 seconds (JVM running for 22.573)
+18-Oct-2022 10:14:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15608 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:14:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:14:31 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:14:35 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14724 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:14:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:14:35 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:14:36 INFO - Started OnlineSsApplication in 5.439 seconds (JVM running for 650.364)
+18-Oct-2022 10:15:26 INFO - null
+18-Oct-2022 10:22:49 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15608 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:22:49 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:22:49 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:22:53 INFO - Started OnlineSsApplication in 3.692 seconds (JVM running for 1146.593)
+18-Oct-2022 10:23:13 INFO - null
+18-Oct-2022 10:24:54 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15608 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:24:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:24:54 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:24:57 INFO - Started OnlineSsApplication in 2.821 seconds (JVM running for 1271.026)
+18-Oct-2022 10:26:18 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 11900 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:26:18 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:26:18 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:26:29 INFO - Started OnlineSsApplication in 11.802 seconds (JVM running for 13.635)
+18-Oct-2022 10:27:19 INFO - null
+18-Oct-2022 10:30:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 11900 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:30:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:30:51 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:30:54 INFO - Started OnlineSsApplication in 3.651 seconds (JVM running for 278.705)
+18-Oct-2022 10:33:38 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 1244 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:33:38 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:33:38 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:34:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14112 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 10:34:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 10:34:58 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 10:35:07 INFO - Started OnlineSsApplication in 9.479 seconds (JVM running for 11.558)
+18-Oct-2022 10:35:57 INFO - null
+18-Oct-2022 10:38:22 INFO - null
+18-Oct-2022 10:40:04 INFO - null
+18-Oct-2022 10:40:30 INFO - null
+18-Oct-2022 10:41:06 INFO - null
+18-Oct-2022 10:41:53 INFO - null
+18-Oct-2022 10:42:04 INFO - null
+18-Oct-2022 10:43:51 INFO - null
+18-Oct-2022 11:05:13 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14112 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 11:05:13 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 11:05:13 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 11:05:17 INFO - Started OnlineSsApplication in 3.972 seconds (JVM running for 1821.817)
+18-Oct-2022 11:05:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14112 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 11:05:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 11:05:46 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 11:05:49 INFO - Started OnlineSsApplication in 3.253 seconds (JVM running for 1853.783)
+18-Oct-2022 11:06:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14112 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 11:06:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 11:06:31 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 11:06:35 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 17116 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 11:06:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 11:06:35 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 11:06:36 INFO - Started OnlineSsApplication in 4.474 seconds (JVM running for 1900.309)
+18-Oct-2022 11:07:04 INFO - null
+18-Oct-2022 11:57:44 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14112 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 11:57:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 11:57:44 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 11:57:49 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14112 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 11:57:49 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 11:57:49 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 11:57:57 INFO - Started OnlineSsApplication in 8.602 seconds (JVM running for 4981.641)
+18-Oct-2022 13:20:42 INFO - null
+18-Oct-2022 13:41:10 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 13:41:10 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 13:41:10 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 13:41:19 INFO - Started OnlineSsApplication in 8.656 seconds (JVM running for 10.244)
+18-Oct-2022 13:42:06 INFO - null
+18-Oct-2022 13:42:20 INFO - null
+18-Oct-2022 13:42:32 INFO - null
+18-Oct-2022 13:43:08 INFO - null
+18-Oct-2022 13:43:24 INFO - null
+18-Oct-2022 13:43:25 INFO - null
+18-Oct-2022 13:43:47 INFO - null
+18-Oct-2022 13:44:00 INFO - null
+18-Oct-2022 13:44:49 INFO - null
+18-Oct-2022 14:10:31 INFO - null
+18-Oct-2022 14:10:46 INFO - null
+18-Oct-2022 14:11:02 INFO - null
+18-Oct-2022 14:11:26 INFO - null
+18-Oct-2022 14:11:39 INFO - null
+18-Oct-2022 14:13:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:13:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:13:05 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:13:10 INFO - Started OnlineSsApplication in 5.291 seconds (JVM running for 1922.191)
+18-Oct-2022 14:13:20 INFO - null
+18-Oct-2022 14:14:27 INFO - null
+18-Oct-2022 14:14:38 INFO - null
+18-Oct-2022 14:16:30 INFO - null
+18-Oct-2022 14:17:36 INFO - null
+18-Oct-2022 14:17:50 INFO - null
+18-Oct-2022 14:18:56 INFO - null
+18-Oct-2022 14:19:20 INFO - null
+18-Oct-2022 14:19:42 INFO - null
+18-Oct-2022 14:20:30 INFO - null
+18-Oct-2022 14:20:35 INFO - null
+18-Oct-2022 14:20:48 INFO - null
+18-Oct-2022 14:21:21 INFO - null
+18-Oct-2022 14:22:35 INFO - null
+18-Oct-2022 14:30:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:30:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:30:23 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:30:28 INFO - Started OnlineSsApplication in 4.964 seconds (JVM running for 2959.303)
+18-Oct-2022 14:30:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:30:39 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:30:39 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:30:46 INFO - Started OnlineSsApplication in 6.756 seconds (JVM running for 2977.494)
+18-Oct-2022 14:30:48 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 18028 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:30:48 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:30:48 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:31:07 INFO - Started AppointmentApplicationTests in 19.665 seconds (JVM running for 25.192)
+18-Oct-2022 14:44:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:44:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:44:47 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:44:51 INFO - Started OnlineSsApplication in 3.785 seconds (JVM running for 3822.873)
+18-Oct-2022 14:45:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:45:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:45:07 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:45:10 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22996 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 14:45:10 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 14:45:10 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 14:45:11 INFO - Started OnlineSsApplication in 3.641 seconds (JVM running for 3842.315)
+18-Oct-2022 15:02:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:02:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:02:03 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:02:08 INFO - Started OnlineSsApplication in 4.57 seconds (JVM running for 4859.385)
+18-Oct-2022 15:02:26 INFO - Starting OrdersApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 9024 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:02:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:02:26 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:02:42 INFO - Started OrdersApplicationTests in 16.545 seconds (JVM running for 20.54)
+18-Oct-2022 15:03:36 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:03:36 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:03:36 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:03:39 INFO - Started OnlineSsApplication in 3.243 seconds (JVM running for 4950.362)
+18-Oct-2022 15:04:16 INFO - Starting OrdersApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15272 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:04:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:04:16 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:04:34 INFO - Started OrdersApplicationTests in 18.699 seconds (JVM running for 22.469)
+18-Oct-2022 15:07:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:07:06 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:07:06 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:07:09 INFO - Started OnlineSsApplication in 3.2 seconds (JVM running for 5160.951)
+18-Oct-2022 15:07:25 INFO - Starting PaymentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22144 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:07:25 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:07:25 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:07:48 INFO - Started PaymentApplicationTests in 23.62 seconds (JVM running for 26.989)
+18-Oct-2022 15:09:12 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:09:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:09:12 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:09:15 INFO - Started OnlineSsApplication in 3.456 seconds (JVM running for 5286.778)
+18-Oct-2022 15:09:35 INFO - Starting PaymentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 13780 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:09:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:09:35 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:09:57 INFO - Started PaymentApplicationTests in 22.049 seconds (JVM running for 25.98)
+18-Oct-2022 15:11:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:11:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:11:05 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:11:08 INFO - Started OnlineSsApplication in 3.38 seconds (JVM running for 5400.094)
+18-Oct-2022 15:11:26 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:11:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:11:26 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:11:29 INFO - Started OnlineSsApplication in 3.016 seconds (JVM running for 5420.937)
+18-Oct-2022 15:21:18 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:21:18 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:21:18 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:21:24 INFO - Started OnlineSsApplication in 5.768 seconds (JVM running for 6015.267)
+18-Oct-2022 15:29:00 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 4704 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:29:00 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:29:00 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:29:22 INFO - Started AppointmentApplicationTests in 23.589 seconds (JVM running for 27.403)
+18-Oct-2022 15:35:19 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 15344 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:35:20 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:35:20 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:35:43 INFO - Started AppointmentApplicationTests in 24.776 seconds (JVM running for 28.572)
+18-Oct-2022 15:41:35 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21216 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 15:41:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 15:41:35 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 15:59:11 INFO - null
+18-Oct-2022 15:59:27 INFO - null
+18-Oct-2022 15:59:38 INFO - null
+18-Oct-2022 16:00:01 INFO - null
+18-Oct-2022 16:00:23 INFO - null
+18-Oct-2022 16:00:35 INFO - null
+18-Oct-2022 16:01:07 INFO - null
+18-Oct-2022 16:01:18 INFO - null
+18-Oct-2022 16:01:19 INFO - null
+18-Oct-2022 16:05:39 INFO - null
+18-Oct-2022 17:45:55 INFO - null
+18-Oct-2022 17:46:07 INFO - null
+18-Oct-2022 17:46:28 INFO - null
+18-Oct-2022 17:46:43 INFO - null
+18-Oct-2022 18:10:30 INFO - null
+18-Oct-2022 18:11:07 INFO - nullAppointment [appointmentId=123, location=Patna, visitType=Open, preferredDate=2022-10-19, preferredTime=null, salonService=null, customer=null, payment=null]
+18-Oct-2022 18:11:27 INFO - null
+18-Oct-2022 18:13:37 INFO - null
+18-Oct-2022 18:13:54 INFO - null
+18-Oct-2022 18:15:15 INFO - null
+18-Oct-2022 18:15:36 INFO - nullPayment [paymentId=2, type=netbaking, status=done, cards=null]
+18-Oct-2022 18:16:41 INFO - null
+18-Oct-2022 18:16:54 INFO - null
+18-Oct-2022 18:17:24 INFO - null
+18-Oct-2022 18:17:41 INFO - null
+18-Oct-2022 18:18:08 INFO - null
+18-Oct-2022 18:18:46 INFO - null
+18-Oct-2022 18:19:03 INFO - null
+18-Oct-2022 18:19:16 INFO - null
+18-Oct-2022 18:19:56 INFO - null
+18-Oct-2022 18:20:08 INFO - null
+18-Oct-2022 18:20:41 INFO - null
+18-Oct-2022 18:20:52 INFO - null
+18-Oct-2022 18:20:53 INFO - null
+18-Oct-2022 18:28:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23972 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 18:28:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 18:28:31 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 18:28:34 INFO - Started OnlineSsApplication in 3.066 seconds (JVM running for 17246.155)
+18-Oct-2022 18:28:38 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 14532 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 18:28:38 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 18:28:38 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 18:29:37 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 18476 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 18:29:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 18:29:37 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 18:29:46 INFO - Started OnlineSsApplication in 9.236 seconds (JVM running for 10.646)
+18-Oct-2022 18:40:28 INFO - null
+18-Oct-2022 18:40:50 INFO - null
+18-Oct-2022 18:41:00 INFO - null
+18-Oct-2022 18:42:25 INFO - null
+18-Oct-2022 20:13:04 INFO - null
+18-Oct-2022 20:13:21 INFO - null
+18-Oct-2022 20:18:45 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 18476 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:18:45 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:18:45 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:18:48 INFO - Started OnlineSsApplication in 3.336 seconds (JVM running for 6553.282)
+18-Oct-2022 20:18:56 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 17540 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:18:56 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:18:56 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:19:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16020 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:19:39 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:19:39 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:19:45 INFO - Started OnlineSsApplication in 7.258 seconds (JVM running for 9.208)
+18-Oct-2022 20:19:56 INFO - null
+18-Oct-2022 20:20:12 INFO - null
+18-Oct-2022 20:22:54 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 9156 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:22:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:22:54 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:23:13 INFO - Started AppointmentApplicationTests in 20.304 seconds (JVM running for 25.477)
+18-Oct-2022 20:29:30 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16020 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:29:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:29:30 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:29:34 INFO - Started OnlineSsApplication in 3.786 seconds (JVM running for 597.88)
+18-Oct-2022 20:29:40 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21612 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:29:40 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:29:40 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:30:07 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21856 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:30:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:30:07 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:30:09 INFO - Started AppointmentApplicationTests in 29.679 seconds (JVM running for 33.509)
+18-Oct-2022 20:30:27 INFO - Started AppointmentApplicationTests in 22.043 seconds (JVM running for 31.83)
+18-Oct-2022 20:31:53 INFO - Starting AppointmentApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 18028 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:31:53 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:31:53 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:32:12 INFO - Started AppointmentApplicationTests in 19.949 seconds (JVM running for 23.151)
+18-Oct-2022 20:52:10 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 22512 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:52:10 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:52:10 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:52:30 INFO - Started CustomerApplicationTests in 20.725 seconds (JVM running for 25.102)
+18-Oct-2022 20:53:51 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 24412 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:53:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:53:51 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:54:12 INFO - Started CustomerApplicationTests in 21.648 seconds (JVM running for 25.352)
+18-Oct-2022 20:57:54 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 23696 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:57:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:57:54 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:58:16 INFO - Started CustomerApplicationTests in 23.483 seconds (JVM running for 27.278)
+18-Oct-2022 20:59:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16036 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 20:59:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 20:59:28 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 20:59:38 INFO - Started OnlineSsApplication in 10.979 seconds (JVM running for 13.061)
+18-Oct-2022 20:59:45 INFO - null
+18-Oct-2022 20:59:58 INFO - null
+18-Oct-2022 21:00:12 INFO - null
+18-Oct-2022 21:03:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16036 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:03:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:03:24 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:03:28 INFO - Started OnlineSsApplication in 3.814 seconds (JVM running for 242.893)
+18-Oct-2022 21:04:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16036 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:04:21 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:04:21 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:04:25 INFO - Started OnlineSsApplication in 4.109 seconds (JVM running for 299.856)
+18-Oct-2022 21:04:27 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 19680 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:04:27 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:04:27 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:04:44 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 21204 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:04:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:04:44 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:05:05 INFO - Started CustomerApplicationTests in 21.85 seconds (JVM running for 25.611)
+18-Oct-2022 21:05:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16036 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:05:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:05:47 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:05:50 INFO - Started OnlineSsApplication in 4.157 seconds (JVM running for 385.642)
+18-Oct-2022 21:06:26 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 16036 (C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main\target\classes started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:06:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:06:26 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:06:29 INFO - Started OnlineSsApplication in 3.008 seconds (JVM running for 424.517)
+18-Oct-2022 21:06:44 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on DESKTOP-MVTQ89H with PID 8828 (started by princ in C:\Users\princ\Downloads\MahaOnlineSalon-main\MahaOnlineSalon-main)
+18-Oct-2022 21:06:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:06:44 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:06:58 INFO - Started CustomerApplicationTests in 14.052 seconds (JVM running for 17.873)
+18-Oct-2022 21:30:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 34744 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+18-Oct-2022 21:30:39 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:30:39 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:34:52 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 19992 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+18-Oct-2022 21:34:52 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+18-Oct-2022 21:34:52 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Oct-2022 21:35:00 INFO - Started OnlineSsApplication in 8.24 seconds (JVM running for 9.834)
+18-Oct-2022 21:44:29 INFO - null
+18-Oct-2022 21:44:46 INFO - null
+18-Oct-2022 21:45:24 INFO - null
+19-Oct-2022 09:04:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 09:04:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 09:04:23 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 09:04:30 INFO - Started OnlineSsApplication in 8.078 seconds (JVM running for 11.446)
+19-Oct-2022 09:18:07 INFO - null
+19-Oct-2022 09:18:20 INFO - null
+19-Oct-2022 09:18:38 INFO - null
+19-Oct-2022 10:46:37 INFO - null
+19-Oct-2022 10:47:46 INFO - null
+19-Oct-2022 10:52:40 INFO - null
+19-Oct-2022 10:53:18 INFO - null
+19-Oct-2022 11:54:46 INFO - null
+19-Oct-2022 11:55:36 INFO - null
+19-Oct-2022 11:56:27 INFO - null
+19-Oct-2022 12:02:30 INFO - nullAppointment [appointmentId=19, location=Lucknow, visitType=Open, preferredDate=2022-10-27, preferredTime=null, salonService=null, customer=Customer [userId=4, name=Mike, email=null, contactNo=null, dob=null, user1=null, houseno=null], payment=null]
+19-Oct-2022 12:04:20 INFO - null
+19-Oct-2022 12:05:22 INFO - null
+19-Oct-2022 12:05:41 INFO - null
+19-Oct-2022 12:07:49 INFO - nullAppointment [appointmentId=19, location=Lucknow, visitType=Open, preferredDate=2022-10-27, preferredTime=null, salonService=null, customer=Customer [userId=4, name=Mike, email=null, contactNo=null, dob=null, user1=null, houseno=null], payment=null]
+19-Oct-2022 12:08:25 INFO - null
+19-Oct-2022 12:09:44 INFO - null
+19-Oct-2022 12:10:39 INFO - null
+19-Oct-2022 12:12:41 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 12:12:41 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 12:12:41 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 12:12:44 INFO - Started OnlineSsApplication in 2.907 seconds (JVM running for 11304.964)
+19-Oct-2022 12:12:49 INFO - null
+19-Oct-2022 12:14:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 12:14:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 12:14:23 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 12:14:26 INFO - Started OnlineSsApplication in 2.903 seconds (JVM running for 11407.148)
+19-Oct-2022 12:14:27 INFO - null
+19-Oct-2022 12:15:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 12:15:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 12:15:07 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 12:15:10 INFO - Started OnlineSsApplication in 2.78 seconds (JVM running for 11450.841)
+19-Oct-2022 12:22:34 INFO - null
+19-Oct-2022 12:23:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 12:23:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 12:23:46 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 12:23:48 INFO - Started OnlineSsApplication in 1.796 seconds (JVM running for 11968.821)
+19-Oct-2022 12:23:54 INFO - null
+19-Oct-2022 12:24:34 INFO - null
+19-Oct-2022 13:43:35 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 13:43:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 13:43:35 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 13:43:37 INFO - Started OnlineSsApplication in 2.349 seconds (JVM running for 16758.059)
+19-Oct-2022 13:44:00 INFO - null
+19-Oct-2022 13:44:31 INFO - null
+19-Oct-2022 13:44:40 INFO - null
+19-Oct-2022 13:45:30 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 13:45:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 13:45:30 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 13:45:33 INFO - Started OnlineSsApplication in 2.579 seconds (JVM running for 16873.779)
+19-Oct-2022 13:46:02 INFO - null
+19-Oct-2022 13:46:11 INFO - null
+19-Oct-2022 13:47:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 13:47:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 13:47:24 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 13:47:26 INFO - Started OnlineSsApplication in 1.758 seconds (JVM running for 16986.9)
+19-Oct-2022 13:51:00 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 13:51:00 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 13:51:00 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 13:51:03 INFO - Started OnlineSsApplication in 2.33 seconds (JVM running for 17203.686)
+19-Oct-2022 13:51:19 INFO - null
+19-Oct-2022 13:51:54 INFO - null
+19-Oct-2022 14:02:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:02:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:02:05 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:02:07 INFO - Started OnlineSsApplication in 1.572 seconds (JVM running for 17868.041)
+19-Oct-2022 14:04:11 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:04:11 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:04:11 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:04:13 INFO - Started OnlineSsApplication in 1.559 seconds (JVM running for 17994.03)
+19-Oct-2022 14:05:36 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:05:36 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:05:36 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:05:37 INFO - Started OnlineSsApplication in 1.547 seconds (JVM running for 18078.326)
+19-Oct-2022 14:06:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:06:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:06:17 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:06:18 INFO - Started OnlineSsApplication in 1.619 seconds (JVM running for 18119.357)
+19-Oct-2022 14:06:29 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:06:29 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:06:29 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:06:30 INFO - Started OnlineSsApplication in 1.441 seconds (JVM running for 18131.41)
+19-Oct-2022 14:06:53 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:06:53 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:06:53 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:06:55 INFO - Started OnlineSsApplication in 1.553 seconds (JVM running for 18155.807)
+19-Oct-2022 14:07:17 INFO - null
+19-Oct-2022 14:08:17 INFO - null
+19-Oct-2022 14:08:24 INFO - null
+19-Oct-2022 14:10:34 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:10:34 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:10:34 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:10:36 INFO - Started OnlineSsApplication in 1.526 seconds (JVM running for 18376.606)
+19-Oct-2022 14:11:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:11:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:11:51 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:11:53 INFO - Started OnlineSsApplication in 1.835 seconds (JVM running for 18454.143)
+19-Oct-2022 14:14:22 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:14:22 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:14:22 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:15:40 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:15:40 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:15:40 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:16:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:16:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:16:03 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:16:33 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:16:33 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:16:33 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:16:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:16:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:16:58 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:16:59 INFO - Started OnlineSsApplication in 1.539 seconds (JVM running for 18760.09)
+19-Oct-2022 14:18:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:18:21 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:18:21 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:18:22 INFO - Started OnlineSsApplication in 1.486 seconds (JVM running for 18843.391)
+19-Oct-2022 14:18:54 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:18:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:18:54 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:18:55 INFO - Started OnlineSsApplication in 1.73 seconds (JVM running for 18876.234)
+19-Oct-2022 14:19:34 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:19:34 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:19:34 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:19:36 INFO - Started OnlineSsApplication in 1.568 seconds (JVM running for 18916.916)
+19-Oct-2022 14:20:06 INFO - null
+19-Oct-2022 14:23:14 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:23:14 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:23:14 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:23:16 INFO - Started OnlineSsApplication in 2.079 seconds (JVM running for 19137.454)
+19-Oct-2022 14:25:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:25:39 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:25:39 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:25:41 INFO - Started OnlineSsApplication in 1.606 seconds (JVM running for 19281.97)
+19-Oct-2022 14:26:19 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:26:19 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:26:19 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:26:21 INFO - Started OnlineSsApplication in 1.458 seconds (JVM running for 19321.545)
+19-Oct-2022 14:27:09 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:27:09 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:27:09 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:27:16 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:27:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:27:16 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:27:18 INFO - Started OnlineSsApplication in 2.32 seconds (JVM running for 19378.951)
+19-Oct-2022 14:31:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:31:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:31:04 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:31:05 INFO - Started OnlineSsApplication in 1.602 seconds (JVM running for 19606.467)
+19-Oct-2022 14:32:20 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:32:20 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:32:20 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:32:22 INFO - Started OnlineSsApplication in 1.568 seconds (JVM running for 19682.754)
+19-Oct-2022 14:32:52 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:32:52 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:32:52 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:32:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:32:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:32:59 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:33:01 INFO - Started OnlineSsApplication in 1.681 seconds (JVM running for 19722.151)
+19-Oct-2022 14:33:52 INFO - null
+19-Oct-2022 14:35:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:35:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:35:08 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:35:10 INFO - Started OnlineSsApplication in 1.774 seconds (JVM running for 19850.577)
+19-Oct-2022 14:35:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:35:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:35:47 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:35:49 INFO - Started OnlineSsApplication in 1.813 seconds (JVM running for 19889.523)
+19-Oct-2022 14:36:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:36:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:36:17 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:36:20 INFO - Started OnlineSsApplication in 3.594 seconds (JVM running for 19921.272)
+19-Oct-2022 14:36:37 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:36:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:36:37 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:36:39 INFO - Started OnlineSsApplication in 1.614 seconds (JVM running for 19939.657)
+19-Oct-2022 14:38:00 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:38:00 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:38:00 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:38:01 INFO - Started OnlineSsApplication in 1.667 seconds (JVM running for 20022.429)
+19-Oct-2022 14:38:41 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:38:41 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:38:41 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:38:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:38:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:38:47 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:38:49 INFO - Started OnlineSsApplication in 1.505 seconds (JVM running for 20069.602)
+19-Oct-2022 14:40:29 INFO - null
+19-Oct-2022 14:45:23 INFO - null
+19-Oct-2022 14:48:26 INFO - null
+19-Oct-2022 14:49:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:49:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:49:59 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:50:02 INFO - Started OnlineSsApplication in 3.119 seconds (JVM running for 20742.584)
+19-Oct-2022 14:50:22 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:50:22 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:50:22 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:50:25 INFO - Started OnlineSsApplication in 3.823 seconds (JVM running for 20766.439)
+19-Oct-2022 14:51:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:51:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:51:31 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:51:32 INFO - Started OnlineSsApplication in 1.695 seconds (JVM running for 20833.18)
+19-Oct-2022 14:52:02 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:52:02 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:52:02 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:52:04 INFO - Started OnlineSsApplication in 1.788 seconds (JVM running for 20864.93)
+19-Oct-2022 14:52:14 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:52:14 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:52:14 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:52:15 INFO - Started OnlineSsApplication in 1.653 seconds (JVM running for 20876.174)
+19-Oct-2022 14:53:18 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:53:18 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:53:18 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:53:20 INFO - Started OnlineSsApplication in 1.592 seconds (JVM running for 20940.793)
+19-Oct-2022 14:53:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:53:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:53:51 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:53:53 INFO - Started OnlineSsApplication in 1.741 seconds (JVM running for 20973.541)
+19-Oct-2022 14:55:10 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:55:10 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:55:10 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:55:11 INFO - Started OnlineSsApplication in 1.536 seconds (JVM running for 21052.048)
+19-Oct-2022 14:55:38 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:55:38 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:55:38 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:55:40 INFO - Started OnlineSsApplication in 1.614 seconds (JVM running for 21080.71)
+19-Oct-2022 14:55:55 INFO - null
+19-Oct-2022 14:56:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:56:55 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:56:55 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:56:56 INFO - Started OnlineSsApplication in 1.544 seconds (JVM running for 21157.095)
+19-Oct-2022 14:57:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:57:06 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:57:06 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:57:07 INFO - Started OnlineSsApplication in 1.525 seconds (JVM running for 21168.214)
+19-Oct-2022 14:57:34 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 14:57:34 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 14:57:34 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 14:57:36 INFO - Started OnlineSsApplication in 1.666 seconds (JVM running for 21196.825)
+19-Oct-2022 15:02:09 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:02:09 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:02:09 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:02:11 INFO - Started OnlineSsApplication in 2.302 seconds (JVM running for 21472.319)
+19-Oct-2022 15:02:33 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:02:33 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:02:33 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:02:35 INFO - Started OnlineSsApplication in 2.134 seconds (JVM running for 21496.462)
+19-Oct-2022 15:06:31 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 5368 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:06:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:06:31 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:06:31 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 9576 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:06:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:06:31 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:06:48 INFO - Started CustomerApplicationTests in 18.545 seconds (JVM running for 24.296)
+19-Oct-2022 15:06:48 INFO - Started CustomerApplicationTests in 18.704 seconds (JVM running for 24.454)
+19-Oct-2022 15:10:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:10:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:10:08 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:10:10 INFO - Started OnlineSsApplication in 1.982 seconds (JVM running for 21951.104)
+19-Oct-2022 15:10:24 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 24076 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:10:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:10:24 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:10:34 INFO - Started CustomerApplicationTests in 10.73 seconds (JVM running for 13.256)
+19-Oct-2022 15:14:01 INFO - null
+19-Oct-2022 15:40:08 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 10816 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:40:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:40:08 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:40:21 INFO - Started CustomerApplicationTests in 13.354 seconds (JVM running for 16.087)
+19-Oct-2022 15:40:35 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 17920 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 15:40:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 15:40:35 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 15:40:48 INFO - Started CustomerApplicationTests in 13.465 seconds (JVM running for 15.795)
+19-Oct-2022 16:20:12 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 16:20:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 16:20:12 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 16:20:14 INFO - Started OnlineSsApplication in 2.632 seconds (JVM running for 26155.182)
+19-Oct-2022 16:21:28 INFO - nullAppointment [appointmentId=19, location=Lucknow, visitType=Open, preferredDate=2022-10-28, preferredTime=null, salonService=null, customer=Customer [userId=19, name=Raju, email=null, contactNo=null, dob=null, user1=null, houseno=null], payment=null]
+19-Oct-2022 16:21:43 INFO - null
+19-Oct-2022 16:21:49 INFO - null
+19-Oct-2022 16:22:01 INFO - null
+19-Oct-2022 16:22:52 INFO - null
+19-Oct-2022 17:10:54 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 17:10:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 17:10:54 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 17:10:57 INFO - Started OnlineSsApplication in 3.179 seconds (JVM running for 29197.539)
+19-Oct-2022 17:11:36 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 17:11:36 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 17:11:36 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 17:11:38 INFO - Started OnlineSsApplication in 2.212 seconds (JVM running for 29239.01)
+19-Oct-2022 17:12:45 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 17:12:45 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 17:12:45 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 17:12:47 INFO - Started OnlineSsApplication in 1.8 seconds (JVM running for 29307.575)
+19-Oct-2022 17:14:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4492 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+19-Oct-2022 17:14:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+19-Oct-2022 17:14:24 INFO - No active profile set, falling back to 1 default profile: "default"
+19-Oct-2022 17:14:26 INFO - Started OnlineSsApplication in 2.353 seconds (JVM running for 29407.383)
+19-Oct-2022 17:31:35 INFO - null
+19-Oct-2022 17:34:07 INFO - nullAppointment [appointmentId=19, location=Lucknow, visitType=Open, preferredDate=2022-10-28, preferredTime=null, salonService=null, customer=Customer [userId=19, name=Raju, email=null, contactNo=null, dob=null, user1=null, houseno=null], payment=null]
+19-Oct-2022 17:34:31 INFO - null
+19-Oct-2022 17:34:37 INFO - null
+19-Oct-2022 17:35:52 INFO - nullAppointment [appointmentId=19, location=Lucknow, visitType=Open, preferredDate=2022-10-28, preferredTime=null, salonService=null, customer=Customer [userId=19, name=Raju, email=null, contactNo=null, dob=null, user1=null, houseno=null], payment=null]
+21-Oct-2022 12:23:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 3940 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+21-Oct-2022 12:23:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+21-Oct-2022 12:23:08 INFO - No active profile set, falling back to 1 default profile: "default"
+21-Oct-2022 12:23:16 INFO - Started OnlineSsApplication in 8.37 seconds (JVM running for 10.308)
+21-Oct-2022 12:40:42 INFO - null
+21-Oct-2022 12:40:53 INFO - null
+21-Oct-2022 13:59:38 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 19476 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+21-Oct-2022 13:59:38 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+21-Oct-2022 13:59:38 INFO - No active profile set, falling back to 1 default profile: "default"
+21-Oct-2022 13:59:48 INFO - Started CustomerApplicationTests in 10.503 seconds (JVM running for 14.171)
+02-Nov-2022 00:56:27 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 30644 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 00:56:27 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 00:56:27 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:01:56 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 14072 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:01:56 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:01:56 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:07:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 24784 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:07:06 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:07:06 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:15:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:15:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:15:58 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:16:04 INFO - Started OnlineSsApplication in 5.619 seconds (JVM running for 6.711)
+02-Nov-2022 01:21:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:21:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:21:28 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:21:30 INFO - Started OnlineSsApplication in 1.769 seconds (JVM running for 332.966)
+02-Nov-2022 01:24:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:24:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:24:59 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:25:01 INFO - Started OnlineSsApplication in 1.761 seconds (JVM running for 543.919)
+02-Nov-2022 01:27:49 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:27:49 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:27:49 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:27:50 INFO - Started OnlineSsApplication in 1.868 seconds (JVM running for 713.631)
+02-Nov-2022 01:28:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:28:06 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:28:06 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:28:08 INFO - Started OnlineSsApplication in 1.606 seconds (JVM running for 730.852)
+02-Nov-2022 01:28:12 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:28:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:28:12 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:28:14 INFO - Started OnlineSsApplication in 1.761 seconds (JVM running for 737.119)
+02-Nov-2022 01:28:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:28:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:28:17 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:28:20 INFO - Started OnlineSsApplication in 3.07 seconds (JVM running for 743.66)
+02-Nov-2022 01:36:40 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:36:40 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:36:40 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:36:42 INFO - Started OnlineSsApplication in 2.096 seconds (JVM running for 1244.993)
+02-Nov-2022 01:38:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:38:21 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:38:21 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:38:23 INFO - Started OnlineSsApplication in 1.642 seconds (JVM running for 1345.998)
+02-Nov-2022 01:39:37 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:39:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:39:37 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:39:38 INFO - Started OnlineSsApplication in 1.457 seconds (JVM running for 1421.42)
+02-Nov-2022 01:48:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:48:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:48:24 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:48:26 INFO - Started OnlineSsApplication in 1.786 seconds (JVM running for 1949.184)
+02-Nov-2022 01:48:37 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+02-Nov-2022 01:48:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+02-Nov-2022 01:48:37 INFO - No active profile set, falling back to 1 default profile: "default"
+02-Nov-2022 01:48:38 INFO - Started OnlineSsApplication in 1.532 seconds (JVM running for 1961.356)
+01-Nov-2022 21:30:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:30:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:30:51 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:30:53 INFO - Started OnlineSsApplication in 1.815 seconds (JVM running for 2194.68)
+01-Nov-2022 21:36:15 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:36:15 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:36:15 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:36:17 INFO - Started OnlineSsApplication in 1.648 seconds (JVM running for 2518.751)
+01-Nov-2022 21:48:12 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:48:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:48:12 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:48:14 INFO - Started OnlineSsApplication in 2.385 seconds (JVM running for 3235.981)
+01-Nov-2022 21:48:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:48:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:48:46 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:48:48 INFO - Started OnlineSsApplication in 1.713 seconds (JVM running for 3269.72)
+01-Nov-2022 21:49:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:49:55 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:49:55 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:49:57 INFO - Started OnlineSsApplication in 1.976 seconds (JVM running for 3339.304)
+01-Nov-2022 21:50:44 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:50:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:50:44 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:50:46 INFO - Started OnlineSsApplication in 2.103 seconds (JVM running for 3387.89)
+01-Nov-2022 21:53:54 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:53:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:53:54 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:53:56 INFO - Started OnlineSsApplication in 2.121 seconds (JVM running for 3578.326)
+01-Nov-2022 21:56:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 21:56:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 21:56:28 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 21:56:30 INFO - Started OnlineSsApplication in 2.184 seconds (JVM running for 3732.166)
+01-Nov-2022 22:02:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:02:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:02:28 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:02:30 INFO - Started OnlineSsApplication in 2.466 seconds (JVM running for 4092.169)
+01-Nov-2022 22:02:35 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:02:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:02:35 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:02:36 INFO - Started OnlineSsApplication in 1.841 seconds (JVM running for 4098.548)
+01-Nov-2022 22:04:36 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:04:36 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:04:36 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:05:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:05:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:05:07 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:05:22 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:05:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:05:23 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:05:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:05:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:05:28 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:05:50 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:05:50 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:05:50 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:05:52 INFO - Started OnlineSsApplication in 2.074 seconds (JVM running for 4294.454)
+01-Nov-2022 22:09:09 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:09:09 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:09:09 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:09:11 INFO - Started OnlineSsApplication in 1.856 seconds (JVM running for 4493.333)
+01-Nov-2022 22:09:18 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:09:18 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:09:18 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:09:20 INFO - Started OnlineSsApplication in 1.754 seconds (JVM running for 4501.659)
+01-Nov-2022 22:13:14 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:13:14 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:13:14 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:13:17 INFO - Started OnlineSsApplication in 2.36 seconds (JVM running for 4738.745)
+01-Nov-2022 22:30:52 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26968 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:30:52 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:30:52 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:30:56 INFO - Started OnlineSsApplication in 3.79 seconds (JVM running for 5797.772)
+01-Nov-2022 22:31:30 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 39536 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:31:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:31:30 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:31:42 INFO - Started CustomerApplicationTests in 12.313 seconds (JVM running for 16.456)
+01-Nov-2022 22:33:59 INFO - Starting CustomerApplicationTests using Java 17.0.4.1 on Farhan with PID 24164 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:33:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:33:59 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:34:10 INFO - Started CustomerApplicationTests in 11.468 seconds (JVM running for 13.814)
+01-Nov-2022 22:36:31 INFO - Starting UserApplicationTests using Java 17.0.4.1 on Farhan with PID 33076 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:36:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:36:31 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:36:41 INFO - Started UserApplicationTests in 11.071 seconds (JVM running for 13.751)
+01-Nov-2022 22:38:28 INFO - Starting UserApplicationTests using Java 17.0.4.1 on Farhan with PID 24924 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:38:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:38:28 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:38:40 INFO - Started UserApplicationTests in 12.203 seconds (JVM running for 14.87)
+01-Nov-2022 22:40:30 INFO - Starting UserApplicationTests using Java 17.0.4.1 on Farhan with PID 28960 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:40:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:40:30 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:40:42 INFO - Started UserApplicationTests in 12.517 seconds (JVM running for 15.207)
+01-Nov-2022 22:43:29 INFO - Starting UserApplicationTests using Java 17.0.4.1 on Farhan with PID 37136 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:43:29 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:43:29 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:43:41 INFO - Started UserApplicationTests in 12.821 seconds (JVM running for 15.286)
+01-Nov-2022 22:46:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 29448 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+01-Nov-2022 22:46:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+01-Nov-2022 22:46:08 INFO - No active profile set, falling back to 1 default profile: "default"
+01-Nov-2022 22:46:15 INFO - Started OnlineSsApplication in 6.633 seconds (JVM running for 7.946)
+06-Nov-2022 14:10:33 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 8600 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+06-Nov-2022 14:10:33 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+06-Nov-2022 14:10:33 INFO - No active profile set, falling back to 1 default profile: "default"
+06-Nov-2022 14:10:39 INFO - Started OnlineSsApplication in 6.003 seconds (JVM running for 7.109)
+06-Nov-2022 14:18:01 INFO - null
+06-Nov-2022 14:19:15 INFO - null
+06-Nov-2022 14:26:09 INFO - null
+06-Nov-2022 14:49:13 INFO - null
+06-Nov-2022 14:49:13 INFO - null
+06-Nov-2022 14:49:19 INFO - null
+06-Nov-2022 14:49:19 INFO - null
+06-Nov-2022 14:52:58 INFO - null
+06-Nov-2022 14:53:18 INFO - null
+06-Nov-2022 14:53:26 INFO - null
+06-Nov-2022 14:53:26 INFO - null
+06-Nov-2022 14:54:10 INFO - null
+06-Nov-2022 14:54:26 INFO - null
+06-Nov-2022 15:01:00 INFO - null
+06-Nov-2022 15:01:00 INFO - null
+06-Nov-2022 15:01:06 INFO - null
+06-Nov-2022 15:01:06 INFO - null
+06-Nov-2022 15:01:07 INFO - null
+06-Nov-2022 15:01:07 INFO - null
+06-Nov-2022 15:01:39 INFO - null
+06-Nov-2022 15:01:39 INFO - null
+06-Nov-2022 15:01:43 INFO - null
+06-Nov-2022 15:01:43 INFO - null
+06-Nov-2022 15:01:43 INFO - null
+06-Nov-2022 15:01:43 INFO - null
+06-Nov-2022 15:02:10 INFO - null
+06-Nov-2022 18:46:32 INFO - null
+06-Nov-2022 18:46:34 INFO - null
+06-Nov-2022 18:49:22 INFO - null
+06-Nov-2022 18:51:51 INFO - null
+06-Nov-2022 18:52:12 INFO - null
+06-Nov-2022 18:52:12 INFO - null
+06-Nov-2022 19:26:48 INFO - null
+06-Nov-2022 19:38:07 INFO - null
+06-Nov-2022 20:03:58 INFO - null
+06-Nov-2022 20:04:21 INFO - null
+06-Nov-2022 20:41:35 INFO - null
+06-Nov-2022 21:27:31 INFO - null
+06-Nov-2022 23:14:38 INFO - null
+07-Nov-2022 11:40:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 22872 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+07-Nov-2022 11:40:22 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+07-Nov-2022 11:40:22 INFO - No active profile set, falling back to 1 default profile: "default"
+07-Nov-2022 11:40:32 INFO - Started OnlineSsApplication in 11.597 seconds (JVM running for 15.964)
+07-Nov-2022 11:41:10 INFO - null
+07-Nov-2022 11:41:38 INFO - null
+07-Nov-2022 11:46:13 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5560 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+07-Nov-2022 11:46:14 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+07-Nov-2022 11:46:14 INFO - No active profile set, falling back to 1 default profile: "default"
+07-Nov-2022 11:46:22 INFO - Started OnlineSsApplication in 8.625 seconds (JVM running for 10.29)
+07-Nov-2022 11:58:52 INFO - null
+07-Nov-2022 12:02:38 INFO - null
+07-Nov-2022 12:03:10 INFO - null
+07-Nov-2022 12:08:46 INFO - null
+07-Nov-2022 12:09:37 INFO - null
+07-Nov-2022 12:10:03 INFO - null
+07-Nov-2022 12:37:38 INFO - null
+07-Nov-2022 12:43:45 INFO - null
+07-Nov-2022 13:22:31 INFO - null
+07-Nov-2022 14:26:56 INFO - null
+07-Nov-2022 14:41:23 INFO - null
+07-Nov-2022 14:43:15 INFO - null
+07-Nov-2022 14:54:48 INFO - null
+07-Nov-2022 14:56:30 INFO - null
+07-Nov-2022 14:57:55 INFO - null
+07-Nov-2022 14:58:44 INFO - null
+07-Nov-2022 14:59:26 INFO - null
+07-Nov-2022 15:00:12 INFO - null
+07-Nov-2022 15:02:23 INFO - null
+07-Nov-2022 15:02:37 INFO - null
+07-Nov-2022 15:04:16 INFO - null
+07-Nov-2022 15:07:27 INFO - null
+07-Nov-2022 15:08:15 INFO - null
+07-Nov-2022 15:09:48 INFO - null
+07-Nov-2022 15:10:51 INFO - null
+07-Nov-2022 15:13:29 INFO - null
+07-Nov-2022 15:13:51 INFO - null
+07-Nov-2022 15:14:26 INFO - null
+07-Nov-2022 15:19:04 INFO - null
+07-Nov-2022 16:06:50 INFO - null
+07-Nov-2022 16:25:22 INFO - null
+07-Nov-2022 16:25:22 INFO - null
+07-Nov-2022 16:25:24 INFO - null
+07-Nov-2022 16:27:11 INFO - null
+07-Nov-2022 16:27:28 INFO - null
+07-Nov-2022 16:32:22 INFO - null
+07-Nov-2022 16:34:52 INFO - null
+07-Nov-2022 16:35:05 INFO - null
+07-Nov-2022 16:35:16 INFO - null
+07-Nov-2022 16:36:34 INFO - null
+07-Nov-2022 16:36:38 INFO - null
+08-Nov-2022 00:53:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 10328 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+08-Nov-2022 00:53:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+08-Nov-2022 00:53:46 INFO - No active profile set, falling back to 1 default profile: "default"
+08-Nov-2022 00:53:53 INFO - null
+08-Nov-2022 00:53:53 INFO - Started OnlineSsApplication in 7.287 seconds (JVM running for 8.999)
+08-Nov-2022 00:54:00 INFO - null
+08-Nov-2022 00:54:03 INFO - null
+08-Nov-2022 00:55:22 INFO - null
+08-Nov-2022 00:55:58 INFO - null
+08-Nov-2022 00:58:33 INFO - null
+08-Nov-2022 00:59:08 INFO - null
+08-Nov-2022 00:59:15 INFO - null
+08-Nov-2022 00:59:28 INFO - null
+08-Nov-2022 01:25:21 INFO - null
+08-Nov-2022 01:25:23 INFO - null
+08-Nov-2022 01:25:43 INFO - null
+08-Nov-2022 01:26:39 INFO - null
+08-Nov-2022 01:31:10 INFO - null
+08-Nov-2022 01:32:14 INFO - null
+08-Nov-2022 01:32:25 INFO - null
+08-Nov-2022 01:32:32 INFO - null
+08-Nov-2022 01:34:36 INFO - null
+08-Nov-2022 01:35:00 INFO - null
+08-Nov-2022 01:40:41 INFO - null
+08-Nov-2022 02:32:37 INFO - null
+08-Nov-2022 02:32:37 INFO - null
+08-Nov-2022 02:33:20 INFO - null
+08-Nov-2022 02:33:40 INFO - null
+08-Nov-2022 02:33:40 INFO - null
+08-Nov-2022 02:36:00 INFO - null
+08-Nov-2022 02:36:00 INFO - null
+08-Nov-2022 02:36:27 INFO - null
+08-Nov-2022 02:36:51 INFO - null
+08-Nov-2022 02:38:59 INFO - null
+08-Nov-2022 10:00:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 3412 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+08-Nov-2022 10:00:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+08-Nov-2022 10:00:03 INFO - No active profile set, falling back to 1 default profile: "default"
+08-Nov-2022 10:00:11 INFO - Started OnlineSsApplication in 8.175 seconds (JVM running for 10.106)
+08-Nov-2022 10:12:24 INFO - null
+08-Nov-2022 10:12:24 INFO - null
+08-Nov-2022 10:12:33 INFO - null
+08-Nov-2022 10:12:33 INFO - null
+08-Nov-2022 10:13:01 INFO - null
+08-Nov-2022 10:13:01 INFO - null
+08-Nov-2022 10:13:04 INFO - null
+08-Nov-2022 10:13:04 INFO - null
+08-Nov-2022 10:13:08 INFO - null
+08-Nov-2022 10:13:08 INFO - null
+08-Nov-2022 10:17:37 INFO - null
+08-Nov-2022 10:17:37 INFO - null
+08-Nov-2022 10:17:47 INFO - null
+08-Nov-2022 10:17:47 INFO - null
+08-Nov-2022 10:17:51 INFO - null
+08-Nov-2022 10:17:51 INFO - null
+08-Nov-2022 10:18:00 INFO - null
+08-Nov-2022 10:18:31 INFO - null
+08-Nov-2022 10:18:31 INFO - null
+08-Nov-2022 10:19:29 INFO - null
+08-Nov-2022 10:19:29 INFO - null
+08-Nov-2022 10:30:20 INFO - null
+08-Nov-2022 10:38:14 INFO - null
+08-Nov-2022 10:38:14 INFO - null
+08-Nov-2022 10:38:33 INFO - null
+08-Nov-2022 10:38:33 INFO - null
+08-Nov-2022 11:23:34 INFO - null
+08-Nov-2022 11:23:36 INFO - null
+08-Nov-2022 11:25:42 INFO - null
+08-Nov-2022 11:25:42 INFO - null
+08-Nov-2022 11:25:53 INFO - null
+08-Nov-2022 11:25:53 INFO - null
+08-Nov-2022 11:49:29 INFO - null
+08-Nov-2022 15:06:45 INFO - null
+08-Nov-2022 15:06:50 INFO - null
+08-Nov-2022 15:07:18 INFO - null
+08-Nov-2022 15:07:19 INFO - null
+08-Nov-2022 15:07:24 INFO - null
+08-Nov-2022 15:07:24 INFO - null
+08-Nov-2022 15:12:20 INFO - null
+08-Nov-2022 15:32:28 INFO - null
+08-Nov-2022 15:32:29 INFO - null
+08-Nov-2022 15:32:40 INFO - null
+08-Nov-2022 15:32:45 INFO - null
+08-Nov-2022 15:32:45 INFO - null
+08-Nov-2022 15:39:31 INFO - null
+08-Nov-2022 18:31:04 INFO - null
+08-Nov-2022 18:31:05 INFO - null
+08-Nov-2022 18:31:23 INFO - null
+08-Nov-2022 18:31:25 INFO - null
+08-Nov-2022 18:32:40 INFO - null
+08-Nov-2022 18:32:40 INFO - null
+08-Nov-2022 18:33:02 INFO - null
+08-Nov-2022 18:33:05 INFO - null
+08-Nov-2022 18:33:05 INFO - null
+08-Nov-2022 19:04:52 INFO - null
+08-Nov-2022 19:04:57 INFO - null
+08-Nov-2022 19:04:57 INFO - null
+08-Nov-2022 19:05:45 INFO - null
+08-Nov-2022 19:05:48 INFO - null
+08-Nov-2022 19:05:48 INFO - null
+08-Nov-2022 19:06:33 INFO - null
+08-Nov-2022 19:06:43 INFO - null
+08-Nov-2022 19:06:43 INFO - null
+08-Nov-2022 19:07:02 INFO - null
+08-Nov-2022 19:07:02 INFO - null
+08-Nov-2022 19:07:21 INFO - null
+08-Nov-2022 19:07:23 INFO - null
+08-Nov-2022 19:07:23 INFO - null
+08-Nov-2022 19:07:39 INFO - null
+08-Nov-2022 19:07:39 INFO - null
+08-Nov-2022 19:08:27 INFO - null
+08-Nov-2022 19:08:34 INFO - null
+08-Nov-2022 19:08:34 INFO - null
+08-Nov-2022 19:08:44 INFO - null
+08-Nov-2022 19:08:49 INFO - null
+08-Nov-2022 19:08:56 INFO - null
+08-Nov-2022 19:08:56 INFO - null
+08-Nov-2022 19:10:49 INFO - null
+08-Nov-2022 19:10:49 INFO - null
+08-Nov-2022 19:10:57 INFO - null
+08-Nov-2022 19:10:57 INFO - null
+08-Nov-2022 19:18:35 INFO - null
+08-Nov-2022 19:29:50 INFO - null
+08-Nov-2022 19:30:02 INFO - null
+08-Nov-2022 21:24:10 INFO - null
+08-Nov-2022 21:24:10 INFO - null
+08-Nov-2022 21:24:18 INFO - null
+08-Nov-2022 21:24:18 INFO - null
+08-Nov-2022 21:24:24 INFO - null
+08-Nov-2022 21:27:46 INFO - null
+08-Nov-2022 21:27:48 INFO - null
+08-Nov-2022 21:28:16 INFO - null
+08-Nov-2022 21:28:16 INFO - null
+08-Nov-2022 21:28:36 INFO - null
+08-Nov-2022 21:28:41 INFO - null
+08-Nov-2022 21:28:41 INFO - null
+08-Nov-2022 21:29:07 INFO - null
+08-Nov-2022 21:29:07 INFO - null
+08-Nov-2022 21:29:22 INFO - null
+08-Nov-2022 21:29:22 INFO - null
+08-Nov-2022 21:29:34 INFO - null
+08-Nov-2022 21:33:15 INFO - null
+08-Nov-2022 21:33:15 INFO - null
+08-Nov-2022 21:34:05 INFO - null
+08-Nov-2022 21:34:05 INFO - null
+08-Nov-2022 22:25:57 INFO - null
+08-Nov-2022 22:25:58 INFO - null
+08-Nov-2022 22:26:01 INFO - null
+08-Nov-2022 22:26:01 INFO - null
+08-Nov-2022 22:26:14 INFO - null
+08-Nov-2022 22:26:33 INFO - null
+08-Nov-2022 22:26:33 INFO - null
+08-Nov-2022 23:26:29 INFO - null
+08-Nov-2022 23:26:29 INFO - null
+08-Nov-2022 23:30:20 INFO - null
+08-Nov-2022 23:30:20 INFO - null
+09-Nov-2022 01:43:30 INFO - null
+09-Nov-2022 01:43:30 INFO - null
+09-Nov-2022 01:43:33 INFO - null
+09-Nov-2022 01:43:33 INFO - null
+09-Nov-2022 01:43:41 INFO - null
+09-Nov-2022 01:43:41 INFO - null
+09-Nov-2022 01:43:49 INFO - null
+09-Nov-2022 01:43:49 INFO - null
+09-Nov-2022 01:45:24 INFO - null
+09-Nov-2022 01:45:24 INFO - null
+09-Nov-2022 01:45:27 INFO - null
+09-Nov-2022 01:45:27 INFO - null
+09-Nov-2022 01:45:29 INFO - null
+09-Nov-2022 01:45:29 INFO - null
+09-Nov-2022 01:47:53 INFO - null
+09-Nov-2022 01:48:07 INFO - null
+09-Nov-2022 01:48:07 INFO - null
+09-Nov-2022 01:48:10 INFO - null
+09-Nov-2022 01:48:10 INFO - null
+09-Nov-2022 01:56:46 INFO - null
+09-Nov-2022 01:56:46 INFO - null
+09-Nov-2022 01:56:48 INFO - null
+09-Nov-2022 01:56:48 INFO - null
+09-Nov-2022 01:57:13 INFO - null
+09-Nov-2022 01:57:45 INFO - null
+09-Nov-2022 02:04:20 INFO - null
+09-Nov-2022 02:04:20 INFO - null
+09-Nov-2022 02:04:28 INFO - null
+09-Nov-2022 02:04:28 INFO - null
+09-Nov-2022 02:04:30 INFO - null
+09-Nov-2022 02:04:30 INFO - null
+09-Nov-2022 02:04:31 INFO - null
+09-Nov-2022 02:04:31 INFO - null
+09-Nov-2022 02:04:33 INFO - null
+09-Nov-2022 02:04:33 INFO - null
+09-Nov-2022 02:04:34 INFO - null
+09-Nov-2022 02:04:46 INFO - null
+09-Nov-2022 02:04:46 INFO - null
+09-Nov-2022 03:48:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 31408 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 03:48:56 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 03:48:56 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 03:49:06 INFO - Started OnlineSsApplication in 11.241 seconds (JVM running for 13.333)
+09-Nov-2022 03:49:08 INFO - null
+09-Nov-2022 03:49:08 INFO - null
+09-Nov-2022 03:49:23 INFO - null
+09-Nov-2022 03:50:45 INFO - null
+09-Nov-2022 03:50:52 INFO - null
+09-Nov-2022 03:50:52 INFO - null
+09-Nov-2022 03:51:16 INFO - null
+09-Nov-2022 03:51:16 INFO - null
+09-Nov-2022 03:52:01 INFO - null
+09-Nov-2022 03:52:01 INFO - null
+09-Nov-2022 03:52:05 INFO - null
+09-Nov-2022 03:52:05 INFO - null
+09-Nov-2022 03:53:26 INFO - null
+09-Nov-2022 03:53:26 INFO - null
+09-Nov-2022 03:53:30 INFO - null
+09-Nov-2022 03:53:30 INFO - null
+09-Nov-2022 03:54:47 INFO - null
+09-Nov-2022 03:54:47 INFO - null
+09-Nov-2022 03:54:47 INFO - null
+09-Nov-2022 03:54:51 INFO - null
+09-Nov-2022 03:54:51 INFO - null
+09-Nov-2022 03:55:02 INFO - null
+09-Nov-2022 03:55:02 INFO - null
+09-Nov-2022 03:55:30 INFO - null
+09-Nov-2022 03:58:25 INFO - null
+09-Nov-2022 03:58:25 INFO - null
+09-Nov-2022 03:58:25 INFO - null
+09-Nov-2022 03:58:25 INFO - null
+09-Nov-2022 04:03:19 INFO - null
+09-Nov-2022 04:03:19 INFO - null
+09-Nov-2022 04:03:50 INFO - null
+09-Nov-2022 04:03:50 INFO - null
+09-Nov-2022 04:04:34 INFO - null
+09-Nov-2022 04:04:34 INFO - null
+09-Nov-2022 04:04:34 INFO - null
+09-Nov-2022 04:04:34 INFO - null
+09-Nov-2022 04:06:57 INFO - null
+09-Nov-2022 04:06:57 INFO - null
+09-Nov-2022 04:07:05 INFO - null
+09-Nov-2022 04:07:05 INFO - null
+09-Nov-2022 04:07:29 INFO - null
+09-Nov-2022 04:07:29 INFO - null
+09-Nov-2022 04:07:32 INFO - null
+09-Nov-2022 04:07:32 INFO - null
+09-Nov-2022 04:07:39 INFO - null
+09-Nov-2022 04:07:39 INFO - null
+09-Nov-2022 04:07:39 INFO - null
+09-Nov-2022 04:07:55 INFO - null
+09-Nov-2022 04:07:55 INFO - null
+09-Nov-2022 04:08:24 INFO - null
+09-Nov-2022 04:08:24 INFO - null
+09-Nov-2022 04:08:56 INFO - null
+09-Nov-2022 04:08:56 INFO - null
+09-Nov-2022 04:09:18 INFO - null
+09-Nov-2022 04:09:19 INFO - null
+09-Nov-2022 04:09:30 INFO - null
+09-Nov-2022 04:10:01 INFO - null
+09-Nov-2022 04:10:01 INFO - null
+09-Nov-2022 10:49:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2952 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 10:49:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 10:49:24 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 10:49:37 INFO - Started OnlineSsApplication in 13.18 seconds (JVM running for 15.837)
+09-Nov-2022 10:49:43 INFO - null
+09-Nov-2022 10:49:43 INFO - null
+09-Nov-2022 10:50:18 INFO - null
+09-Nov-2022 10:50:18 INFO - null
+09-Nov-2022 10:50:24 INFO - null
+09-Nov-2022 10:50:24 INFO - null
+09-Nov-2022 10:51:56 INFO - null
+09-Nov-2022 10:51:56 INFO - null
+09-Nov-2022 10:52:06 INFO - null
+09-Nov-2022 10:52:06 INFO - null
+09-Nov-2022 11:15:00 INFO - null
+09-Nov-2022 11:15:00 INFO - null
+09-Nov-2022 11:15:22 INFO - null
+09-Nov-2022 11:15:22 INFO - null
+09-Nov-2022 11:15:33 INFO - null
+09-Nov-2022 11:15:33 INFO - null
+09-Nov-2022 11:19:30 INFO - null
+09-Nov-2022 11:19:30 INFO - null
+09-Nov-2022 11:21:23 INFO - null
+09-Nov-2022 11:23:11 INFO - null
+09-Nov-2022 11:23:11 INFO - null
+09-Nov-2022 11:23:23 INFO - null
+09-Nov-2022 11:23:23 INFO - null
+09-Nov-2022 11:23:24 INFO - null
+09-Nov-2022 11:23:24 INFO - null
+09-Nov-2022 11:23:30 INFO - null
+09-Nov-2022 11:23:30 INFO - null
+09-Nov-2022 11:24:10 INFO - null
+09-Nov-2022 11:24:10 INFO - null
+09-Nov-2022 11:24:12 INFO - null
+09-Nov-2022 11:24:12 INFO - null
+09-Nov-2022 11:24:13 INFO - null
+09-Nov-2022 11:24:14 INFO - null
+09-Nov-2022 11:25:11 INFO - null
+09-Nov-2022 11:25:11 INFO - null
+09-Nov-2022 11:47:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2952 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 11:47:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 11:47:05 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 11:47:11 INFO - Started OnlineSsApplication in 6.286 seconds (JVM running for 3469.659)
+09-Nov-2022 11:47:12 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2952 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 11:47:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 11:47:12 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 11:47:15 INFO - Started OnlineSsApplication in 2.481 seconds (JVM running for 3473.513)
+09-Nov-2022 11:47:30 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2952 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 11:47:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 11:47:30 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 11:48:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2952 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 11:48:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 11:48:31 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 11:49:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2952 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 11:49:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 11:49:03 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:03:47 INFO - Starting PaymentApplicationTests using Java 17.0.4.1 on Farhan with PID 28400 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:03:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:03:47 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:04:00 INFO - Started PaymentApplicationTests in 13.937 seconds (JVM running for 17.963)
+09-Nov-2022 12:11:28 INFO - Starting OrdersApplicationTests using Java 17.0.4.1 on Farhan with PID 7344 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:11:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:11:28 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:11:36 INFO - Started OrdersApplicationTests in 8.921 seconds (JVM running for 10.894)
+09-Nov-2022 12:15:42 INFO - Starting SalonServiceApplicationTests using Java 17.0.4.1 on Farhan with PID 12840 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:15:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:15:42 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:15:51 INFO - Started SalonServiceApplicationTests in 9.555 seconds (JVM running for 11.483)
+09-Nov-2022 12:17:44 INFO - Starting SalonServiceApplicationTests using Java 17.0.4.1 on Farhan with PID 12744 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:17:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:17:44 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:17:53 INFO - Started SalonServiceApplicationTests in 9.109 seconds (JVM running for 10.873)
+09-Nov-2022 12:19:50 INFO - Starting SalonServiceApplicationTests using Java 17.0.4.1 on Farhan with PID 14164 (started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:19:50 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:19:50 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:19:59 INFO - Started SalonServiceApplicationTests in 9.391 seconds (JVM running for 11.191)
+09-Nov-2022 12:28:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26184 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:28:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:28:23 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:28:29 INFO - Started OnlineSsApplication in 6.273 seconds (JVM running for 7.334)
+09-Nov-2022 12:46:56 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 26184 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:46:56 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:46:56 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:46:59 INFO - Started OnlineSsApplication in 2.675 seconds (JVM running for 1117.356)
+09-Nov-2022 12:48:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 23908 (D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main\target\classes started by FK in D:\Downloads\FinalOnlineSalonservice-main (1)\FinalOnlineSalonservice-main)
+09-Nov-2022 12:48:06 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+09-Nov-2022 12:48:06 INFO - No active profile set, falling back to 1 default profile: "default"
+09-Nov-2022 12:48:12 INFO - Started OnlineSsApplication in 6.448 seconds (JVM running for 7.581)
+10-Nov-2022 00:28:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:28:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:28:07 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:28:13 INFO - Started OnlineSsApplication in 5.917 seconds (JVM running for 7.113)
+10-Nov-2022 00:34:16 INFO - null
+10-Nov-2022 00:34:32 INFO - null
+10-Nov-2022 00:34:32 INFO - null
+10-Nov-2022 00:34:40 INFO - null
+10-Nov-2022 00:34:40 INFO - null
+10-Nov-2022 00:35:09 INFO - nullCarddto [id=0, cardName=ICICI, cardNumber=123456, bankName=ICICI, expiryDate=2023-01-26]
+10-Nov-2022 00:36:28 INFO - null
+10-Nov-2022 00:36:28 INFO - null
+10-Nov-2022 00:36:37 INFO - null
+10-Nov-2022 00:36:37 INFO - null
+10-Nov-2022 00:36:38 INFO - null
+10-Nov-2022 00:36:38 INFO - null
+10-Nov-2022 00:36:39 INFO - null
+10-Nov-2022 00:36:39 INFO - null
+10-Nov-2022 00:36:56 INFO - null
+10-Nov-2022 00:43:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:43:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:43:07 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:43:09 INFO - Started OnlineSsApplication in 2.391 seconds (JVM running for 903.933)
+10-Nov-2022 00:43:37 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:43:37 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:43:37 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:43:39 INFO - Started OnlineSsApplication in 1.577 seconds (JVM running for 933.421)
+10-Nov-2022 00:45:42 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:45:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:45:42 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:45:44 INFO - Started OnlineSsApplication in 1.674 seconds (JVM running for 1058.388)
+10-Nov-2022 00:46:24 INFO - null
+10-Nov-2022 00:47:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:47:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:47:01 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:47:03 INFO - Started OnlineSsApplication in 1.516 seconds (JVM running for 1137.271)
+10-Nov-2022 00:47:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:47:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:47:08 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:47:10 INFO - Started OnlineSsApplication in 1.608 seconds (JVM running for 1144.315)
+10-Nov-2022 00:50:49 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 5712 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 00:50:49 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 00:50:49 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 00:50:52 INFO - Started OnlineSsApplication in 2.753 seconds (JVM running for 1366.698)
+10-Nov-2022 00:50:52 INFO - null
+10-Nov-2022 00:54:14 INFO - null
+10-Nov-2022 00:54:22 INFO - null
+10-Nov-2022 00:54:35 INFO - null
+10-Nov-2022 00:54:35 INFO - null
+10-Nov-2022 00:54:35 INFO - null
+10-Nov-2022 00:54:35 INFO - null
+10-Nov-2022 00:54:57 INFO - null
+10-Nov-2022 00:54:57 INFO - null
+10-Nov-2022 00:55:06 INFO - null
+10-Nov-2022 00:55:06 INFO - null
+10-Nov-2022 00:55:10 INFO - null
+10-Nov-2022 00:55:14 INFO - null
+10-Nov-2022 00:55:14 INFO - null
+10-Nov-2022 00:55:15 INFO - null
+10-Nov-2022 00:55:15 INFO - null
+10-Nov-2022 02:44:29 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 18168 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 02:44:29 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 02:44:29 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 02:44:37 INFO - Started OnlineSsApplication in 7.93 seconds (JVM running for 9.399)
+10-Nov-2022 02:44:45 INFO - null
+10-Nov-2022 02:45:49 INFO - null
+10-Nov-2022 03:11:26 INFO - null
+10-Nov-2022 03:11:27 INFO - null
+10-Nov-2022 03:12:53 INFO - null
+10-Nov-2022 03:12:53 INFO - null
+10-Nov-2022 03:15:59 INFO - null
+10-Nov-2022 03:15:59 INFO - null
+10-Nov-2022 09:19:06 INFO - null
+10-Nov-2022 09:19:23 INFO - null
+10-Nov-2022 09:19:24 INFO - null
+10-Nov-2022 09:19:35 INFO - null
+10-Nov-2022 09:19:36 INFO - null
+10-Nov-2022 09:20:14 INFO - null
+10-Nov-2022 09:20:35 INFO - null
+10-Nov-2022 09:22:05 INFO - null
+10-Nov-2022 09:22:05 INFO - null
+10-Nov-2022 09:53:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 09:53:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 09:53:17 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 09:53:28 INFO - Started OnlineSsApplication in 11.805 seconds (JVM running for 13.389)
+10-Nov-2022 09:58:05 INFO - null
+10-Nov-2022 10:01:53 INFO - null
+10-Nov-2022 10:01:53 INFO - null
+10-Nov-2022 10:02:20 INFO - null
+10-Nov-2022 10:02:20 INFO - null
+10-Nov-2022 10:05:19 INFO - null
+10-Nov-2022 10:05:19 INFO - null
+10-Nov-2022 10:07:29 INFO - null
+10-Nov-2022 10:07:29 INFO - null
+10-Nov-2022 10:09:48 INFO - null
+10-Nov-2022 10:09:48 INFO - null
+10-Nov-2022 10:11:06 INFO - null
+10-Nov-2022 10:11:06 INFO - null
+10-Nov-2022 10:19:50 INFO - null
+10-Nov-2022 10:20:05 INFO - null
+10-Nov-2022 10:20:15 INFO - null
+10-Nov-2022 10:20:15 INFO - null
+10-Nov-2022 10:20:36 INFO - null
+10-Nov-2022 10:20:36 INFO - null
+10-Nov-2022 10:20:49 INFO - null
+10-Nov-2022 10:20:49 INFO - null
+10-Nov-2022 10:21:06 INFO - null
+10-Nov-2022 10:21:06 INFO - null
+10-Nov-2022 10:21:14 INFO - null
+10-Nov-2022 10:21:14 INFO - null
+10-Nov-2022 10:21:16 INFO - null
+10-Nov-2022 10:21:16 INFO - null
+10-Nov-2022 11:11:49 INFO - null
+10-Nov-2022 11:11:50 INFO - null
+10-Nov-2022 11:11:54 INFO - null
+10-Nov-2022 11:11:54 INFO - null
+10-Nov-2022 11:12:34 INFO - null
+10-Nov-2022 11:12:34 INFO - null
+10-Nov-2022 11:41:13 INFO - null
+10-Nov-2022 11:41:13 INFO - null
+10-Nov-2022 11:42:25 INFO - null
+10-Nov-2022 11:42:25 INFO - null
+10-Nov-2022 11:47:17 INFO - null
+10-Nov-2022 11:47:17 INFO - null
+10-Nov-2022 11:47:20 INFO - nullAppointment [appointmentId=23, location=Pune, visitType=Open, preferredDate=null, preferredTime=12:15:12, salonService=null, customer=null, payment=null]
+10-Nov-2022 11:48:04 INFO - null
+10-Nov-2022 11:48:04 INFO - null
+10-Nov-2022 11:48:08 INFO - null
+10-Nov-2022 11:48:08 INFO - null
+10-Nov-2022 11:48:17 INFO - null
+10-Nov-2022 11:48:17 INFO - null
+10-Nov-2022 11:51:04 INFO - null
+10-Nov-2022 11:51:04 INFO - null
+10-Nov-2022 11:51:12 INFO - null
+10-Nov-2022 11:51:12 INFO - null
+10-Nov-2022 11:51:31 INFO - null
+10-Nov-2022 11:51:31 INFO - null
+10-Nov-2022 11:52:02 INFO - null
+10-Nov-2022 11:52:02 INFO - null
+10-Nov-2022 11:55:03 INFO - null
+10-Nov-2022 11:55:03 INFO - null
+10-Nov-2022 11:56:54 INFO - null
+10-Nov-2022 11:56:54 INFO - null
+10-Nov-2022 11:57:59 INFO - nullAppointment [appointmentId=29, location=Delhi, visitType=Open, preferredDate=2022-11-18, preferredTime=14:12:16, salonService=null, customer=null, payment=null]
+10-Nov-2022 11:57:59 INFO - null
+10-Nov-2022 11:57:59 INFO - null
+10-Nov-2022 12:05:17 INFO - null
+10-Nov-2022 12:05:17 INFO - null
+10-Nov-2022 12:06:33 INFO - null
+10-Nov-2022 12:06:33 INFO - null
+10-Nov-2022 12:07:51 INFO - null
+10-Nov-2022 12:07:55 INFO - null
+10-Nov-2022 12:07:55 INFO - null
+10-Nov-2022 12:09:19 INFO - null
+10-Nov-2022 12:09:19 INFO - null
+10-Nov-2022 12:09:27 INFO - null
+10-Nov-2022 12:09:27 INFO - null
+10-Nov-2022 12:11:37 INFO - null
+10-Nov-2022 12:11:37 INFO - null
+10-Nov-2022 12:12:16 INFO - null
+10-Nov-2022 12:12:16 INFO - null
+10-Nov-2022 12:13:36 INFO - null
+10-Nov-2022 12:13:36 INFO - null
+10-Nov-2022 12:18:45 INFO - null
+10-Nov-2022 12:18:45 INFO - null
+10-Nov-2022 12:19:05 INFO - nullAppointment [appointmentId=38, location=Pune, visitType=Open, preferredDate=2022-11-26, preferredTime=14:12:26, salonService=null, customer=null, payment=null]
+10-Nov-2022 12:20:55 INFO - null
+10-Nov-2022 12:20:55 INFO - null
+10-Nov-2022 12:21:39 INFO - null
+10-Nov-2022 12:21:39 INFO - null
+10-Nov-2022 12:22:47 INFO - null
+10-Nov-2022 12:22:47 INFO - null
+10-Nov-2022 12:22:55 INFO - null
+10-Nov-2022 12:22:55 INFO - null
+10-Nov-2022 12:23:01 INFO - null
+10-Nov-2022 12:23:01 INFO - null
+10-Nov-2022 12:23:42 INFO - null
+10-Nov-2022 12:23:42 INFO - null
+10-Nov-2022 12:24:27 INFO - nullAppointment [appointmentId=39, location=Delhi, visitType=Open, preferredDate=2022-11-12, preferredTime=14:12:14, salonService=null, customer=null, payment=null]
+10-Nov-2022 12:27:35 INFO - null
+10-Nov-2022 12:27:35 INFO - null
+10-Nov-2022 12:33:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:33:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:33:08 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:33:13 INFO - Started OnlineSsApplication in 5.452 seconds (JVM running for 9598.365)
+10-Nov-2022 12:33:15 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:33:15 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:33:15 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:33:19 INFO - Started OnlineSsApplication in 3.869 seconds (JVM running for 9603.759)
+10-Nov-2022 12:35:15 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:35:15 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:35:15 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:35:17 INFO - Started OnlineSsApplication in 1.887 seconds (JVM running for 9722.371)
+10-Nov-2022 12:35:42 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:35:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:35:42 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:35:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:35:55 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:35:55 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:36:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:36:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:36:31 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:36:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:36:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:36:58 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 12:37:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 20372 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 12:37:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 12:37:04 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 13:23:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 27304 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 13:23:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 13:23:47 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 13:23:55 INFO - Started OnlineSsApplication in 9.15 seconds (JVM running for 16.265)
+10-Nov-2022 13:30:33 INFO - null
+10-Nov-2022 13:30:42 INFO - null
+10-Nov-2022 13:30:42 INFO - null
+10-Nov-2022 13:30:57 INFO - null
+10-Nov-2022 13:30:57 INFO - null
+10-Nov-2022 13:31:02 INFO - null
+10-Nov-2022 13:31:02 INFO - null
+10-Nov-2022 13:33:31 INFO - null
+10-Nov-2022 13:33:31 INFO - null
+10-Nov-2022 13:33:36 INFO - null
+10-Nov-2022 13:34:54 INFO - null
+10-Nov-2022 13:34:54 INFO - null
+10-Nov-2022 13:35:49 INFO - null
+10-Nov-2022 13:35:49 INFO - null
+10-Nov-2022 13:37:31 INFO - null
+10-Nov-2022 13:37:31 INFO - null
+10-Nov-2022 13:38:19 INFO - null
+10-Nov-2022 13:38:19 INFO - null
+10-Nov-2022 13:39:26 INFO - null
+10-Nov-2022 13:39:31 INFO - null
+10-Nov-2022 13:39:31 INFO - null
+10-Nov-2022 13:40:50 INFO - null
+10-Nov-2022 13:40:53 INFO - null
+10-Nov-2022 13:40:53 INFO - null
+10-Nov-2022 13:41:04 INFO - null
+10-Nov-2022 13:43:05 INFO - null
+10-Nov-2022 13:43:05 INFO - null
+10-Nov-2022 13:43:09 INFO - null
+10-Nov-2022 13:43:09 INFO - null
+10-Nov-2022 13:43:24 INFO - null
+10-Nov-2022 13:44:24 INFO - null
+10-Nov-2022 13:44:24 INFO - null
+10-Nov-2022 15:03:33 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 22300 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 15:03:33 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 15:03:33 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 15:03:45 INFO - Started OnlineSsApplication in 12.873 seconds (JVM running for 15.112)
+10-Nov-2022 15:05:37 INFO - null
+10-Nov-2022 15:05:37 INFO - null
+10-Nov-2022 17:21:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 17:21:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 17:21:01 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 17:21:08 INFO - Started OnlineSsApplication in 6.96 seconds (JVM running for 8.318)
+10-Nov-2022 19:58:44 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 19:58:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 19:58:44 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 19:58:49 INFO - Started OnlineSsApplication in 5.074 seconds (JVM running for 9469.142)
+10-Nov-2022 20:46:48 INFO - null
+10-Nov-2022 20:46:48 INFO - null
+10-Nov-2022 20:47:25 INFO - null
+10-Nov-2022 20:47:25 INFO - null
+10-Nov-2022 20:48:44 INFO - null
+10-Nov-2022 20:48:44 INFO - null
+10-Nov-2022 20:50:43 INFO - null
+10-Nov-2022 20:50:43 INFO - null
+10-Nov-2022 20:53:29 INFO - null
+10-Nov-2022 20:53:34 INFO - null
+10-Nov-2022 20:53:34 INFO - null
+10-Nov-2022 20:53:49 INFO - null
+10-Nov-2022 20:53:49 INFO - null
+10-Nov-2022 20:53:57 INFO - null
+10-Nov-2022 20:53:57 INFO - null
+10-Nov-2022 20:54:08 INFO - null
+10-Nov-2022 20:54:11 INFO - null
+10-Nov-2022 20:54:11 INFO - null
+10-Nov-2022 20:54:25 INFO - null
+10-Nov-2022 20:54:25 INFO - null
+10-Nov-2022 20:54:28 INFO - null
+10-Nov-2022 20:54:28 INFO - null
+10-Nov-2022 20:54:49 INFO - nullCarddto [id=0, cardName=SBI, cardNumber=123456, bankName=SBI, expiryDate=2022-12-03]
+10-Nov-2022 21:10:13 INFO - null
+10-Nov-2022 21:10:13 INFO - null
+10-Nov-2022 21:10:15 INFO - null
+10-Nov-2022 21:10:15 INFO - null
+10-Nov-2022 21:10:16 INFO - null
+10-Nov-2022 21:10:16 INFO - null
+10-Nov-2022 21:10:17 INFO - null
+10-Nov-2022 21:10:17 INFO - null
+10-Nov-2022 21:11:16 INFO - null
+10-Nov-2022 21:11:16 INFO - null
+10-Nov-2022 21:16:55 INFO - null
+10-Nov-2022 21:16:55 INFO - null
+10-Nov-2022 21:17:59 INFO - null
+10-Nov-2022 21:17:59 INFO - null
+10-Nov-2022 21:19:30 INFO - null
+10-Nov-2022 21:19:30 INFO - null
+10-Nov-2022 21:19:51 INFO - null
+10-Nov-2022 21:27:28 INFO - null
+10-Nov-2022 21:27:28 INFO - null
+10-Nov-2022 21:27:56 INFO - null
+10-Nov-2022 21:27:56 INFO - null
+10-Nov-2022 21:43:20 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 21:43:20 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 21:43:20 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 21:43:28 INFO - Started OnlineSsApplication in 9.142 seconds (JVM running for 15748.694)
+10-Nov-2022 21:43:30 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 21:43:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 21:43:30 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 21:43:32 INFO - Started OnlineSsApplication in 2.063 seconds (JVM running for 15752.283)
+10-Nov-2022 21:46:42 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 21:46:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 21:46:42 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 21:46:43 INFO - Started OnlineSsApplication in 1.652 seconds (JVM running for 15943.862)
+10-Nov-2022 21:48:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 21:48:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 21:48:04 INFO - No active profile set, falling back to 1 default profile: "default"
+10-Nov-2022 21:48:06 INFO - Started OnlineSsApplication in 1.471 seconds (JVM running for 16026.402)
+10-Nov-2022 21:48:40 INFO - null
+10-Nov-2022 21:48:40 INFO - null
+10-Nov-2022 21:48:43 INFO - null
+10-Nov-2022 21:48:43 INFO - null
+10-Nov-2022 21:57:16 INFO - null
+10-Nov-2022 21:57:16 INFO - null
+10-Nov-2022 21:58:19 INFO - null
+10-Nov-2022 21:58:19 INFO - null
+10-Nov-2022 22:02:37 INFO - null
+10-Nov-2022 22:02:37 INFO - null
+10-Nov-2022 22:04:48 INFO - null
+10-Nov-2022 22:04:48 INFO - null
+10-Nov-2022 22:05:17 INFO - null
+10-Nov-2022 22:05:17 INFO - null
+10-Nov-2022 22:23:43 INFO - null
+10-Nov-2022 22:23:43 INFO - null
+10-Nov-2022 22:28:45 INFO - null
+10-Nov-2022 22:28:46 INFO - null
+10-Nov-2022 22:28:48 INFO - null
+10-Nov-2022 22:28:48 INFO - null
+10-Nov-2022 22:28:54 INFO - null
+10-Nov-2022 22:28:54 INFO - null
+10-Nov-2022 22:52:46 INFO - null
+10-Nov-2022 22:52:49 INFO - null
+10-Nov-2022 22:53:16 INFO - null
+10-Nov-2022 22:53:16 INFO - null
+10-Nov-2022 22:54:39 INFO - null
+10-Nov-2022 22:54:39 INFO - null
+10-Nov-2022 22:54:43 INFO - null
+10-Nov-2022 22:54:43 INFO - null
+10-Nov-2022 22:54:53 INFO - null
+10-Nov-2022 22:54:53 INFO - null
+10-Nov-2022 22:55:04 INFO - null
+10-Nov-2022 22:55:04 INFO - null
+10-Nov-2022 23:05:08 INFO - null
+10-Nov-2022 23:05:08 INFO - null
+10-Nov-2022 23:27:26 INFO - null
+10-Nov-2022 23:27:26 INFO - null
+10-Nov-2022 23:27:41 INFO - null
+10-Nov-2022 23:27:41 INFO - null
+10-Nov-2022 23:28:06 INFO - null
+10-Nov-2022 23:28:06 INFO - null
+10-Nov-2022 23:28:48 INFO - null
+10-Nov-2022 23:28:48 INFO - null
+10-Nov-2022 23:32:08 INFO - null
+10-Nov-2022 23:32:09 INFO - null
+10-Nov-2022 23:32:13 INFO - null
+10-Nov-2022 23:32:14 INFO - null
+10-Nov-2022 23:33:30 INFO - null
+10-Nov-2022 23:33:30 INFO - null
+10-Nov-2022 23:33:37 INFO - null
+10-Nov-2022 23:33:38 INFO - null
+10-Nov-2022 23:33:57 INFO - null
+10-Nov-2022 23:33:57 INFO - null
+10-Nov-2022 23:34:02 INFO - null
+10-Nov-2022 23:34:02 INFO - null
+10-Nov-2022 23:34:43 INFO - null
+10-Nov-2022 23:49:02 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 33088 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+10-Nov-2022 23:49:02 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+10-Nov-2022 23:49:02 INFO - No active profile set, falling back to 1 default profile: "default"
+11-Nov-2022 09:11:14 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 15764 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+11-Nov-2022 09:11:14 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+11-Nov-2022 09:11:14 INFO - No active profile set, falling back to 1 default profile: "default"
+11-Nov-2022 09:18:41 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 22008 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+11-Nov-2022 09:18:41 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+11-Nov-2022 09:18:41 INFO - No active profile set, falling back to 1 default profile: "default"
+11-Nov-2022 09:18:46 INFO - Started OnlineSsApplication in 5.303 seconds (JVM running for 6.225)
+11-Nov-2022 12:24:50 INFO - null
+11-Nov-2022 12:24:51 INFO - null
+11-Nov-2022 12:38:12 INFO - null
+11-Nov-2022 12:38:12 INFO - null
+11-Nov-2022 12:55:36 INFO - null
+11-Nov-2022 12:55:36 INFO - null
+11-Nov-2022 12:56:36 INFO - null
+11-Nov-2022 12:56:36 INFO - null
+11-Nov-2022 13:02:18 INFO - null
+11-Nov-2022 13:02:18 INFO - null
+11-Nov-2022 13:02:23 INFO - null
+11-Nov-2022 13:02:23 INFO - null
+11-Nov-2022 13:02:29 INFO - null
+11-Nov-2022 13:02:33 INFO - null
+11-Nov-2022 13:02:34 INFO - null
+11-Nov-2022 13:08:17 INFO - null
+11-Nov-2022 13:08:17 INFO - null
+11-Nov-2022 13:11:46 INFO - null
+11-Nov-2022 13:11:46 INFO - null
+11-Nov-2022 13:37:47 INFO - null
+11-Nov-2022 13:37:48 INFO - null
+11-Nov-2022 14:22:32 INFO - null
+11-Nov-2022 14:22:32 INFO - null
+11-Nov-2022 14:38:37 INFO - null
+11-Nov-2022 14:38:37 INFO - null
+11-Nov-2022 18:10:52 INFO - null
+11-Nov-2022 18:10:52 INFO - null
+11-Nov-2022 18:10:58 INFO - null
+11-Nov-2022 18:10:58 INFO - null
+11-Nov-2022 18:15:39 INFO - null
+11-Nov-2022 18:19:42 INFO - null
+11-Nov-2022 18:19:42 INFO - null
+11-Nov-2022 18:39:20 INFO - null
+11-Nov-2022 18:39:20 INFO - null
+11-Nov-2022 18:49:20 INFO - null
+11-Nov-2022 18:49:20 INFO - null
+11-Nov-2022 18:50:01 INFO - null
+11-Nov-2022 18:50:01 INFO - null
+11-Nov-2022 18:50:41 INFO - null
+11-Nov-2022 18:50:41 INFO - null
+11-Nov-2022 18:50:46 INFO - null
+11-Nov-2022 18:50:46 INFO - null
+11-Nov-2022 18:51:05 INFO - null
+11-Nov-2022 18:51:05 INFO - null
+11-Nov-2022 18:51:09 INFO - null
+11-Nov-2022 18:51:09 INFO - null
+11-Nov-2022 18:51:14 INFO - null
+11-Nov-2022 18:51:14 INFO - null
+11-Nov-2022 18:53:02 INFO - null
+11-Nov-2022 18:54:09 INFO - null
+11-Nov-2022 18:54:30 INFO - null
+11-Nov-2022 18:54:35 INFO - null
+11-Nov-2022 18:54:58 INFO - null
+11-Nov-2022 18:55:25 INFO - null
+11-Nov-2022 18:55:25 INFO - null
+11-Nov-2022 18:57:07 INFO - nullCarddto [id=0, cardName=aaaaa, cardNumber=1234567890123456, bankName=sdf, expiryDate=2022-11-18]
+11-Nov-2022 18:57:11 INFO - null
+11-Nov-2022 18:57:11 INFO - null
+11-Nov-2022 18:57:14 INFO - null
+11-Nov-2022 18:57:14 INFO - null
+11-Nov-2022 18:57:20 INFO - null
+11-Nov-2022 18:57:20 INFO - null
+11-Nov-2022 18:57:22 INFO - null
+11-Nov-2022 18:57:22 INFO - null
+11-Nov-2022 18:57:56 INFO - null
+11-Nov-2022 18:58:07 INFO - null
+11-Nov-2022 18:58:07 INFO - null
+11-Nov-2022 18:58:29 INFO - null
+11-Nov-2022 18:58:29 INFO - null
+11-Nov-2022 18:58:29 INFO - null
+11-Nov-2022 18:58:29 INFO - null
+11-Nov-2022 18:58:31 INFO - null
+11-Nov-2022 18:58:31 INFO - null
+11-Nov-2022 18:58:47 INFO - null
+11-Nov-2022 18:58:47 INFO - null
+11-Nov-2022 18:58:53 INFO - null
+11-Nov-2022 18:58:53 INFO - null
+11-Nov-2022 19:02:26 INFO - null
+11-Nov-2022 19:02:43 INFO - nullPaymentdto [paymentId=0, type=Card, status=Paid, card=null]
+11-Nov-2022 19:03:28 INFO - null
+11-Nov-2022 19:03:37 INFO - null
+11-Nov-2022 19:05:44 INFO - null
+11-Nov-2022 19:05:44 INFO - null
+11-Nov-2022 19:11:58 INFO - null
+11-Nov-2022 19:13:05 INFO - null
+11-Nov-2022 19:46:58 INFO - null
+11-Nov-2022 19:47:43 INFO - null
+11-Nov-2022 19:47:43 INFO - null
+11-Nov-2022 19:50:14 INFO - null
+11-Nov-2022 19:50:14 INFO - null
+11-Nov-2022 19:54:05 INFO - null
+11-Nov-2022 19:54:27 INFO - null
+11-Nov-2022 19:55:27 INFO - null
+11-Nov-2022 19:56:09 INFO - null
+11-Nov-2022 19:57:01 INFO - null
+11-Nov-2022 19:58:08 INFO - null
+11-Nov-2022 20:00:02 INFO - null
+11-Nov-2022 20:00:11 INFO - null
+11-Nov-2022 20:00:19 INFO - null
+11-Nov-2022 20:00:25 INFO - null
+11-Nov-2022 20:00:47 INFO - null
+11-Nov-2022 20:01:34 INFO - null
+11-Nov-2022 20:02:33 INFO - null
+11-Nov-2022 20:03:10 INFO - null
+11-Nov-2022 20:03:22 INFO - null
+11-Nov-2022 20:04:10 INFO - null
+11-Nov-2022 20:04:42 INFO - null
+11-Nov-2022 20:04:55 INFO - null
+11-Nov-2022 20:11:03 INFO - null
+11-Nov-2022 20:11:32 INFO - null
+11-Nov-2022 20:12:12 INFO - null
+11-Nov-2022 20:12:26 INFO - null
+11-Nov-2022 20:12:48 INFO - null
+11-Nov-2022 20:13:50 INFO - null
+11-Nov-2022 20:13:57 INFO - null
+11-Nov-2022 20:14:44 INFO - null
+11-Nov-2022 20:15:22 INFO - null
+11-Nov-2022 20:15:33 INFO - null
+11-Nov-2022 20:18:00 INFO - null
+11-Nov-2022 20:18:56 INFO - null
+11-Nov-2022 20:19:20 INFO - null
+11-Nov-2022 20:19:33 INFO - null
+11-Nov-2022 20:20:05 INFO - null
+11-Nov-2022 20:23:07 INFO - null
+11-Nov-2022 20:25:15 INFO - null
+11-Nov-2022 20:25:33 INFO - null
+11-Nov-2022 20:25:54 INFO - null
+11-Nov-2022 20:26:35 INFO - null
+11-Nov-2022 20:26:41 INFO - null
+11-Nov-2022 20:27:57 INFO - null
+11-Nov-2022 20:28:45 INFO - null
+11-Nov-2022 20:32:37 INFO - null
+11-Nov-2022 20:34:31 INFO - null
+11-Nov-2022 20:35:01 INFO - null
+11-Nov-2022 20:35:38 INFO - null
+11-Nov-2022 20:36:08 INFO - null
+11-Nov-2022 20:36:08 INFO - null
+11-Nov-2022 20:36:11 INFO - null
+11-Nov-2022 20:36:11 INFO - null
+11-Nov-2022 20:40:12 INFO - null
+11-Nov-2022 20:40:19 INFO - null
+11-Nov-2022 20:40:19 INFO - null
+11-Nov-2022 20:44:23 INFO - null
+11-Nov-2022 20:44:23 INFO - null
+11-Nov-2022 21:13:28 INFO - null
+11-Nov-2022 21:14:21 INFO - null
+11-Nov-2022 21:14:47 INFO - null
+11-Nov-2022 21:16:44 INFO - null
+11-Nov-2022 21:16:44 INFO - null
+11-Nov-2022 21:17:11 INFO - null
+11-Nov-2022 21:17:11 INFO - null
+11-Nov-2022 21:22:26 INFO - null
+11-Nov-2022 21:22:26 INFO - null
+11-Nov-2022 21:22:35 INFO - null
+11-Nov-2022 21:22:35 INFO - null
+11-Nov-2022 21:22:38 INFO - null
+11-Nov-2022 21:22:38 INFO - null
+11-Nov-2022 22:10:23 INFO - null
+11-Nov-2022 22:11:30 INFO - nullPaymentdto [paymentId=52, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=123456, bankName=HDFC, expiryDate=2022-07-20]]
+11-Nov-2022 22:12:00 INFO - nullPaymentdto [paymentId=2, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=123456, bankName=HDFC, expiryDate=2022-07-20]]
+11-Nov-2022 22:22:43 INFO - nullPaymentdto [paymentId=2, type=Card, status=Not Paid, card=Card [id=2, cardName=abc, cardNumber=123456, bankName=HDFC, expiryDate=2022-07-20]]
+11-Nov-2022 22:23:23 INFO - nullPaymentdto [paymentId=2, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=123456, bankName=HDFC, expiryDate=2022-07-20]]
+11-Nov-2022 23:05:02 INFO - null
+11-Nov-2022 23:05:02 INFO - null
+11-Nov-2022 23:05:09 INFO - null
+11-Nov-2022 23:05:09 INFO - null
+11-Nov-2022 23:05:21 INFO - null
+11-Nov-2022 23:05:21 INFO - null
+11-Nov-2022 23:05:26 INFO - null
+11-Nov-2022 23:05:26 INFO - null
+11-Nov-2022 23:05:27 INFO - null
+11-Nov-2022 23:05:28 INFO - null
+11-Nov-2022 23:05:29 INFO - null
+11-Nov-2022 23:05:29 INFO - null
+11-Nov-2022 23:05:31 INFO - null
+11-Nov-2022 23:05:31 INFO - null
+11-Nov-2022 23:06:55 INFO - null
+11-Nov-2022 23:06:55 INFO - null
+11-Nov-2022 23:07:01 INFO - null
+11-Nov-2022 23:07:01 INFO - null
+11-Nov-2022 23:07:03 INFO - null
+11-Nov-2022 23:07:03 INFO - null
+11-Nov-2022 23:11:10 INFO - null
+11-Nov-2022 23:11:19 INFO - null
+11-Nov-2022 23:11:19 INFO - null
+11-Nov-2022 23:12:10 INFO - null
+11-Nov-2022 23:12:10 INFO - null
+11-Nov-2022 23:12:16 INFO - null
+11-Nov-2022 23:12:16 INFO - null
+11-Nov-2022 23:57:53 INFO - null
+11-Nov-2022 23:57:53 INFO - null
+12-Nov-2022 00:10:14 INFO - null
+12-Nov-2022 00:10:14 INFO - null
+12-Nov-2022 00:10:43 INFO - null
+12-Nov-2022 00:10:43 INFO - null
+12-Nov-2022 00:17:38 INFO - null
+12-Nov-2022 00:17:38 INFO - null
+12-Nov-2022 00:17:39 INFO - null
+12-Nov-2022 00:17:39 INFO - null
+12-Nov-2022 00:17:48 INFO - null
+12-Nov-2022 00:17:48 INFO - null
+12-Nov-2022 00:17:55 INFO - null
+12-Nov-2022 00:17:55 INFO - null
+12-Nov-2022 00:17:57 INFO - null
+12-Nov-2022 00:17:57 INFO - null
+12-Nov-2022 00:17:59 INFO - null
+12-Nov-2022 00:17:59 INFO - null
+12-Nov-2022 00:18:07 INFO - null
+12-Nov-2022 00:18:07 INFO - null
+12-Nov-2022 00:18:09 INFO - null
+12-Nov-2022 00:18:09 INFO - null
+12-Nov-2022 01:21:42 INFO - null
+12-Nov-2022 01:21:42 INFO - null
+12-Nov-2022 02:49:32 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 02:49:32 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 02:49:32 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 02:49:38 INFO - Started OnlineSsApplication in 7.003 seconds (JVM running for 8.174)
+12-Nov-2022 02:56:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 02:56:21 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 02:56:21 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 02:56:23 INFO - Started OnlineSsApplication in 2.154 seconds (JVM running for 413.019)
+12-Nov-2022 03:01:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 03:01:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 03:01:07 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 03:01:09 INFO - Started OnlineSsApplication in 1.938 seconds (JVM running for 698.737)
+12-Nov-2022 03:15:36 INFO - null
+12-Nov-2022 03:15:36 INFO - null
+12-Nov-2022 03:52:16 INFO - null
+12-Nov-2022 03:52:16 INFO - null
+12-Nov-2022 03:52:23 INFO - null
+12-Nov-2022 03:52:23 INFO - null
+12-Nov-2022 03:52:29 INFO - null
+12-Nov-2022 03:52:29 INFO - null
+12-Nov-2022 11:47:27 INFO - null
+12-Nov-2022 11:49:24 INFO - null
+12-Nov-2022 11:50:26 INFO - nullPaymentdto [paymentId=58, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]
+12-Nov-2022 11:53:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 11:53:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 11:53:01 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 11:53:03 INFO - Started OnlineSsApplication in 1.462 seconds (JVM running for 32617.252)
+12-Nov-2022 11:59:11 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 11:59:11 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 11:59:11 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 11:59:13 INFO - Started OnlineSsApplication in 1.478 seconds (JVM running for 32987.475)
+12-Nov-2022 11:59:15 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 11:59:15 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 11:59:15 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 11:59:17 INFO - Started OnlineSsApplication in 2.075 seconds (JVM running for 32991.996)
+12-Nov-2022 11:59:19 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 11:59:19 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 11:59:19 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 11:59:20 INFO - Started OnlineSsApplication in 1.284 seconds (JVM running for 32994.703)
+12-Nov-2022 12:00:42 INFO - null
+12-Nov-2022 12:02:51 INFO - nullPaymentdto [paymentId=0, type=Card, status=Not Paid, card=Card [id=69, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]
+12-Nov-2022 12:03:18 INFO - null
+12-Nov-2022 12:03:18 INFO - null
+12-Nov-2022 12:03:23 INFO - null
+12-Nov-2022 12:03:23 INFO - null
+12-Nov-2022 12:03:26 INFO - null
+12-Nov-2022 12:03:26 INFO - null
+12-Nov-2022 12:07:30 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:07:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:07:30 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:07:31 INFO - Started OnlineSsApplication in 1.746 seconds (JVM running for 33486.21)
+12-Nov-2022 12:08:02 INFO - nullPaymentdto [paymentId=0, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]
+12-Nov-2022 12:08:57 INFO - null
+12-Nov-2022 12:08:57 INFO - null
+12-Nov-2022 12:09:00 INFO - null
+12-Nov-2022 12:09:00 INFO - null
+12-Nov-2022 12:09:02 INFO - null
+12-Nov-2022 12:09:02 INFO - null
+12-Nov-2022 12:11:08 INFO - null
+12-Nov-2022 12:17:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 5580 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:17:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:17:03 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:17:04 INFO - Started OnlineSsApplication in 1.465 seconds (JVM running for 34058.975)
+12-Nov-2022 12:21:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:21:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:21:46 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:21:51 INFO - Started OnlineSsApplication in 5.068 seconds (JVM running for 6.066)
+12-Nov-2022 12:27:35 INFO - null
+12-Nov-2022 12:32:16 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:32:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:32:16 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:32:18 INFO - Started OnlineSsApplication in 1.82 seconds (JVM running for 633.219)
+12-Nov-2022 12:33:16 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 4040 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:33:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:33:16 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:34:11 INFO - null
+12-Nov-2022 12:36:29 INFO - null
+12-Nov-2022 12:38:42 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:38:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:38:42 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:39:09 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:39:09 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:39:09 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:45:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:45:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:45:04 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:46:02 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:46:02 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:46:02 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:46:43 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:46:43 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:46:43 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:48:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:48:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:48:04 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:48:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:48:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:48:31 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:48:33 INFO - Started OnlineSsApplication in 1.623 seconds (JVM running for 1608.089)
+12-Nov-2022 12:48:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:48:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:48:58 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:48:59 INFO - Started OnlineSsApplication in 1.845 seconds (JVM running for 1634.956)
+12-Nov-2022 12:51:32 INFO - null
+12-Nov-2022 12:53:21 INFO - null
+12-Nov-2022 12:53:58 INFO - null
+12-Nov-2022 12:54:30 INFO - null
+12-Nov-2022 12:54:59 INFO - null
+12-Nov-2022 12:57:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 12:57:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 12:57:17 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 12:57:19 INFO - Started OnlineSsApplication in 1.796 seconds (JVM running for 2134.661)
+12-Nov-2022 12:57:50 INFO - nullAppointment [appointmentId=83, location=New Delhi, visitType=Open, preferredDate=2022-11-16, preferredTime=14:12:16, salonService=SalonService [serviceId=1, serviceName=Haircut, servicePrice=₹500, serviceDuration=2, discount=10], customer=Customer [customerId=1, name=Anjali, email=abc@gmail.com, contactNo=12344567, dob=1999-12-15, user1=User1 [userId=75, userName=Anjali, password=abc], address=Address [door_no=1, street=4F, area=Lajpat Nagar, city=New Delhi, state=Delhi, pincode=136183]], payment=Payment [paymentId=84, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]]
+12-Nov-2022 13:09:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:09:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:09:03 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:09:05 INFO - Started OnlineSsApplication in 1.998 seconds (JVM running for 2840.837)
+12-Nov-2022 13:14:34 INFO - null
+12-Nov-2022 13:16:43 INFO - nullAppointment [appointmentId=85, location=New Delhi, visitType=Open, preferredDate=2022-11-16, preferredTime=14:12:16, salonService=SalonService [serviceId=1, serviceName=Haircut, servicePrice=₹500, serviceDuration=2, discount=10], customer=Customer [customerId=1, name=Anjali, email=abc@gmail.com, contactNo=12344567, dob=1999-12-15, user1=User1 [userId=75, userName=Anjali, password=abc], address=Address [door_no=1, street=4F, area=Lajpat Nagar, city=New Delhi, state=Delhi, pincode=136183]], payment=Payment [paymentId=86, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]]
+12-Nov-2022 13:23:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:23:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:23:31 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:23:33 INFO - Started OnlineSsApplication in 1.897 seconds (JVM running for 3708.304)
+12-Nov-2022 13:23:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:23:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:23:59 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:24:01 INFO - Started OnlineSsApplication in 1.994 seconds (JVM running for 3736.675)
+12-Nov-2022 13:24:38 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:24:38 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:24:38 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:24:39 INFO - Started OnlineSsApplication in 1.764 seconds (JVM running for 3775.061)
+12-Nov-2022 13:25:50 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:25:50 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:25:50 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:25:52 INFO - Started OnlineSsApplication in 2.105 seconds (JVM running for 3847.255)
+12-Nov-2022 13:26:30 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:26:30 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:26:30 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:26:31 INFO - Started OnlineSsApplication in 1.664 seconds (JVM running for 3886.99)
+12-Nov-2022 13:27:28 INFO - null
+12-Nov-2022 13:29:15 INFO - nullAppointment [appointmentId=87, location=New Delhi, visitType=Open, preferredDate=2022-11-16, preferredTime=14:12:16, salonService=SalonService [serviceId=1, serviceName=Haircut, servicePrice=₹500, serviceDuration=2, discount=10], customer=Customer [customerId=1, name=Anjali, email=abc@gmail.com, contactNo=12344567, dob=1999-12-15, user1=User1 [userId=75, userName=Anjali, password=abc], address=Address [door_no=1, street=4F, area=Lajpat Nagar, city=New Delhi, state=Delhi, pincode=136183]], payment=Payment [paymentId=88, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]]
+12-Nov-2022 13:31:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:31:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:31:07 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:31:10 INFO - Started OnlineSsApplication in 2.145 seconds (JVM running for 4165.153)
+12-Nov-2022 13:31:33 INFO - null
+12-Nov-2022 13:32:38 INFO - nullAppointment [appointmentId=89, location=New Delhi, visitType=Open, preferredDate=2022-11-16, preferredTime=14:12:16, salonService=SalonService [serviceId=1, serviceName=Haircut, servicePrice=₹500, serviceDuration=2, discount=10], customer=Customer [customerId=1, name=Anjali, email=abc@gmail.com, contactNo=12344567, dob=1999-12-15, user1=User1 [userId=75, userName=Anjali, password=abc], address=Address [door_no=1, street=4F, area=Lajpat Nagar, city=New Delhi, state=Delhi, pincode=136183]], payment=Payment [paymentId=90, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]]
+12-Nov-2022 13:33:02 INFO - null
+12-Nov-2022 13:33:50 INFO - null
+12-Nov-2022 13:35:36 INFO - null
+12-Nov-2022 13:35:49 INFO - null
+12-Nov-2022 13:36:39 INFO - null
+12-Nov-2022 13:37:05 INFO - nullCarddto [id=0, cardName=aaaaa, cardNumber=1234567890123456, bankName=sdf, expiryDate=2022-11-18]
+12-Nov-2022 13:37:35 INFO - null
+12-Nov-2022 13:37:51 INFO - null
+12-Nov-2022 13:39:11 INFO - null
+12-Nov-2022 13:40:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:40:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:40:23 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:40:25 INFO - Started OnlineSsApplication in 1.963 seconds (JVM running for 4720.28)
+12-Nov-2022 13:40:50 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:40:50 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:40:50 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:40:52 INFO - Started OnlineSsApplication in 1.833 seconds (JVM running for 4747.301)
+12-Nov-2022 13:42:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:42:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:42:05 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:42:06 INFO - Started OnlineSsApplication in 1.713 seconds (JVM running for 4821.775)
+12-Nov-2022 13:42:20 INFO - null
+12-Nov-2022 13:49:27 INFO - null
+12-Nov-2022 13:50:10 INFO - null
+12-Nov-2022 13:50:50 INFO - null
+12-Nov-2022 13:51:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 26520 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 13:51:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 13:51:59 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 13:52:22 INFO - null
+12-Nov-2022 13:56:31 INFO - null
+12-Nov-2022 13:58:38 INFO - null
+12-Nov-2022 13:59:02 INFO - null
+12-Nov-2022 13:59:18 INFO - null
+12-Nov-2022 14:01:17 INFO - null
+12-Nov-2022 14:02:18 INFO - null
+12-Nov-2022 14:02:40 INFO - nullPaymentdto [paymentId=0, type=Card, status=Not Paid, card=Card [id=1, cardName=abc, cardNumber=1234563456789123, bankName=HDFC, expiryDate=2022-07-20]]
+12-Nov-2022 14:03:13 INFO - null
+12-Nov-2022 14:05:28 INFO - null
+12-Nov-2022 14:05:39 INFO - null
+12-Nov-2022 14:06:45 INFO - null
+12-Nov-2022 14:08:32 INFO - null
+12-Nov-2022 14:09:23 INFO - null
+12-Nov-2022 14:14:43 INFO - null
+12-Nov-2022 14:15:58 INFO - null
+12-Nov-2022 14:16:36 INFO - null
+12-Nov-2022 14:17:24 INFO - null
+12-Nov-2022 14:18:32 INFO - null
+12-Nov-2022 14:19:44 INFO - null
+12-Nov-2022 14:25:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on inlen8520020726 with PID 17940 (C:\Users\a282\Downloads\Online-Salon-Service-main\target\classes started by a282 in C:\Users\a282\Downloads\Online-Salon-Service-main)
+12-Nov-2022 14:25:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 14:25:46 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 14:25:48 INFO - Started OnlineSsApplication in 1.583 seconds (JVM running for 7443.205)
