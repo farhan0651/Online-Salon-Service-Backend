@@ -9,9 +9,8 @@ import com.capg.dto.User1dto;
 public class User1 {
 	// Data Fields
 	@Id
-	@GeneratedValue(strategy=GenerationType.AUTO)
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private long userId; 
-	@Column(unique=true)
 	private String userName;
 	private String password;
 	
@@ -26,7 +25,7 @@ public class User1 {
 //	private Admin admin;
 	
 	//getters and setters
-	@GeneratedValue(strategy=GenerationType.AUTO)
+	//@GeneratedValue(strategy=GenerationType.AUTO)
 	public long getUserId() {
 		return userId;
 	}

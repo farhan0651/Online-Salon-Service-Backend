@@ -5,13 +5,13 @@ import javax.validation.constraints.NotNull;
 public class AddressDTO {
 
 	//@NotNull(message = "Please provide valid doorno")
-	private String door_no;
+	private int door_no;
 	private String street;
 	private String area;
 	private String city; 
 	private String state;
 	private int pincode;
-	public String getDoor_no() {
+	public int getDoor_no() {
 		return door_no;
 	}
 	public String getStreet() {
@@ -29,7 +29,7 @@ public class AddressDTO {
 	public int getPincode() {
 		return pincode;
 	}
-	public void setDoor_no(String door_no) {
+	public void setDoor_no(int door_no) {
 		this.door_no = door_no;
 	}
 	public void setStreet(String street) {

@@ -8,14 +8,14 @@ import javax.persistence.Id;
 @Entity
 public class Address {
     @Id
-    @GeneratedValue(strategy=GenerationType.AUTO)
-	private String door_no;
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int door_no;
 	private String street;
 	private String area;
 	private String city;
 	private String state;
 	private int pincode;
-	public Address(String door_no, String street, String area, String city, String state, int pincode) {
+	public Address(int door_no, String street, String area, String city, String state, int pincode) {
 		super();
 		this.door_no = door_no;
 		this.street = street;
@@ -28,10 +28,10 @@ public class Address {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public String getDoor_no() {
+	public int getDoor_no() {
 		return door_no;
 	}
-	public void setDoor_no(String door_no) {
+	public void setDoor_no(int door_no) {
 		this.door_no = door_no;
 	}
 	public String getStreet() {

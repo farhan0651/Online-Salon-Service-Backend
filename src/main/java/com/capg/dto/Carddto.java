@@ -11,7 +11,7 @@ import com.capg.entity.Card;
 public class Carddto {
 
 	//@NotNull(message = "Please provide valid id")
-	private long id;
+	private long cardId;
 	private String cardName;
 	private String cardNumber;
 	private String bankName ;
@@ -19,7 +19,7 @@ public class Carddto {
 	
 	public static Carddto entityToDTO(Card card2) {
 		Carddto card3 = new Carddto();
-		card3.setId(card2.getId());
+		card3.setCardId(card2.getCardId());
 		card3.setCardName(card2.getCardName());
 		card3.setCardNumber(card2.getCardNumber());
 		card3.setBankName(card2.getBankName());
@@ -27,8 +27,8 @@ public class Carddto {
 		return card3;
 		
 	}
-	public long getId() {
-		return id;
+	public long getCardId() {
+		return cardId;
 	}
 	public String getCardName() {
 		return cardName;
@@ -42,8 +42,8 @@ public class Carddto {
 	public LocalDate getExpiryDate() {
 		return expiryDate;
 	}
-	public void setId(long id) {
-		this.id = id;
+	public void setCardId(long id) {
+		this.cardId = id;
 	}
 	public void setCardName(String cardName) {
 		this.cardName = cardName;
@@ -59,12 +59,12 @@ public class Carddto {
 	}
 	@Override
 	public String toString() {
-		return "Carddto [id=" + id + ", cardName=" + cardName + ", cardNumber=" + cardNumber + ", bankName=" + bankName
+		return "Carddto [id=" + cardId + ", cardName=" + cardName + ", cardNumber=" + cardNumber + ", bankName=" + bankName
 				+ ", expiryDate=" + expiryDate + "]";
 	}
 	@Override
 	public int hashCode() {
-		return Objects.hash(bankName, cardName, cardNumber, expiryDate, id);
+		return Objects.hash(bankName, cardName, cardNumber, expiryDate, cardId);
 	}
 	@Override
 	public boolean equals(Object obj) {
@@ -77,7 +77,7 @@ public class Carddto {
 		Carddto other = (Carddto) obj;
 		return Objects.equals(bankName, other.bankName) && Objects.equals(cardName, other.cardName)
 				&& Objects.equals(cardNumber, other.cardNumber) && Objects.equals(expiryDate, other.expiryDate)
-				&& id == other.id;
+				&& cardId == other.cardId;
 	}
 	
 	

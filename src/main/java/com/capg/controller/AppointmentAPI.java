@@ -63,6 +63,8 @@ public ResponseEntity<List<Appointmentdto>> getOpenAppointments()throws Appointm
 	return new ResponseEntity<>(appointmentList, HttpStatus.OK);
 }
 
+
+
 @CrossOrigin(origins="http://localhost:3000")
 @PostMapping(value = "/addAppointment")
 public ResponseEntity<String> addCustomer(@Valid @RequestBody Appointmentdto appoitntmetDTO) throws AppointmentAlreadyExistsException {

@@ -8,9 +8,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import com.capg.dto.Customerdto;
+import com.capg.dto.Ordersdto;
 import com.capg.entity.Customer;
+import com.capg.entity.Orders;
 import com.capg.exception.CustomerAlreadyExistsException;
 import com.capg.exception.CustomerServiceNotFoundException;
+import com.capg.exception.OrderAlreadyExistsException;
+import com.capg.exception.OrderServiceNotFoundException;
 import com.capg.repository.ICustomerRepository;
 
 
@@ -27,36 +31,27 @@ public class CustomerServiceImp implements ICustomerService{
 	public Customerdto getCustomer(Integer customerId) throws CustomerServiceNotFoundException{ 
 		Optional<Customer> optional = customerRepository.findById(customerId);
 		Customer customer = optional.orElseThrow(() -> new CustomerServiceNotFoundException("Service.CUSTOMER_NOT_FOUND"));
-		Customerdto customer2 = new Customerdto();
-		customer2.setCustomerId(customer.getCustomerId());
-		customer2.setName(customer.getName());
-		customer2.setEmail(customer.getEmail());
-		customer2.setContactNo(customer.getContactNo());
-		customer2.setDob(customer.getDob());
-		customer2.setAddress(customer.getAddress());
+		Customerdto customer2 = Customerdto.entityToDTO(customer);
 		return customer2;
+		
 	}
+	
 	
 	//Add Customer
 	@Override
-	public Customer addCustomer(Customerdto customer) throws CustomerAlreadyExistsException {
-		Optional<Customer> optional = customerRepository.findById(customer.getCustomerId());
-		if(optional.isPresent()) {
+	public Customerdto addCustomer(Customerdto customer) throws CustomerAlreadyExistsException {
+		/*Optional<Customer> customers = customerRepository.findById(customer.getCustomerId());
+		if(customers.isPresent()) {
 			throw new CustomerAlreadyExistsException("Service.CUSTOMER_ALREADY_EXISTS");
 				}
-		else {
-			Customer customerEntity = new Customer();
-			customerEntity.setCustomerId(customer.getCustomerId());
-			customerEntity.setName(customer.getName());
-			customerEntity.setEmail(customer.getEmail());
-			customerEntity.setContactNo(customer.getContactNo());
-			customerEntity.setDob(customer.getDob());
-			customerEntity.setAddress(customer.getAddress());
-			 customerRepository.save(customerEntity);
-			return customerEntity;
-
-		}
+		*/
+		   Customer customer1 = Customer.DTOToentity(customer);
+		   customerRepository.save(customer1);
+		   return customer;
+		   	
 	}
+	
+	
 	
 	//Update Customer
 	@Override

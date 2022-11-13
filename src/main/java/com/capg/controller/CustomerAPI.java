@@ -65,7 +65,7 @@ public class CustomerAPI {
 	@CrossOrigin(origins="http://localhost:3000")
 	@PostMapping(value = "/addCustomer")
 	public ResponseEntity<String> addCustomer(@Valid @RequestBody Customerdto customer) throws CustomerAlreadyExistsException {
-		Customer cust = icustomerService.addCustomer(customer);
+		Customerdto cust = icustomerService.addCustomer(customer);
 		String successMessage = environment.getProperty("Customer_added_successfully") ;
 		LOGGER.info(successMessage);
 		return new ResponseEntity<>(successMessage, HttpStatus.CREATED);

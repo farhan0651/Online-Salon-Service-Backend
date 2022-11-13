@@ -2,6 +2,7 @@ package com.capg.entity;
 
 import java.time.LocalDate;
 import javax.persistence.CascadeType;
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -12,20 +13,21 @@ import com.capg.dto.Customerdto;
 @Entity
 public class Customer {
     @Id
-    @GeneratedValue(strategy=GenerationType.AUTO)
-	private Integer customerId;
+    @Column(name = "customer_id")
+    @GeneratedValue(strategy=GenerationType.IDENTITY)
+	private int customerId;
 	private String name;
 	private String email;
 	private String contactNo;
 	private LocalDate dob;
 	
-	@OneToOne(cascade = CascadeType.MERGE)
-	@JoinColumn(name = "userId", unique = true, nullable=false)
+	@OneToOne
+	@JoinColumn(name = "userId")
 	private User1 user1;
 	
 	//Relationship with Address
-	@OneToOne(cascade = CascadeType.ALL)
-	@JoinColumn(name = "door_No", nullable=false)
+	@OneToOne
+	@JoinColumn(name = "door_No")
 	private Address address;
 
 
@@ -35,11 +37,11 @@ public class Customer {
 				+ ", dob=" + dob + ", user1=" + user1 + ", address=" + address + "]";
 	}
 
-	public Integer getCustomerId() {
+	public int getCustomerId() {
 		return customerId;
 	}
 
-	public void setCustomerId(Integer customerId) {
+	public void setCustomerId(int customerId) {
 		this.customerId = customerId;
 	}
 
@@ -96,7 +98,7 @@ public class Customer {
 		// TODO Auto-generated constructor stub
 	}
 
-	public Customer(Integer customerId, String name, String email, String contactNo, LocalDate dob, User1 user1,
+	public Customer(int customerId, String name, String email, String contactNo, LocalDate dob, User1 user1,
 			Address address) {
 		super();
 		this.customerId = customerId;

@@ -11,8 +11,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import com.capg.dto.Appointmentdto;
 import com.capg.dto.Ordersdto;
+import com.capg.entity.Appointment;
 import com.capg.entity.Orders;
+import com.capg.exception.AppointmentServiceNotFoundException;
 import com.capg.exception.OrderAlreadyExistsException;
 import com.capg.exception.OrderServiceNotFoundException;
 import com.capg.repository.IOrderRepository;
@@ -76,26 +79,8 @@ public class OrderServiceImp implements IOrderService{
 		});
 		return orders;
 	}
-				/*new ArrayList<>();
-		order2.forEach(order -> {
-			Orders ords = new Orders();
-			ords.setOrderId(order.getOrderId());
-			ords.setAmount(order.getAmount());
-			ords.setBillingDate(order.getBillingDate());
-			ords.setPaymentMethod(order.getPaymentMethod());
-			ords.setCustomer(order.getCustomer());
-			ords.setPayment(order.getPayment());
-			order3.add(ords);
-		});
-		if (order3.isEmpty())
-			throw new OrderServiceNotFoundException("Service.Order_NOT_FOUND");
-		return order3;*/
 	
-	/*List<Trainee> fromRepo = traineeRepository.findAll();
-	if(fromRepo.isEmpty()) throw new WomenEmpException("Service.TRAINEE_NOT_PRESENT");
-	List<TraineeDTO> trainees = new ArrayList<>();
-	fromRepo.forEach(p -> {
-		trainees.add(TraineeDTO.entityToDTO(p));
-	});
-	return trainees;*/
+	
+	
+			
 }

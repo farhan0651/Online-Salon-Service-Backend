@@ -28,8 +28,8 @@ public class ICardServiceImp implements ICardService{
 	
 	//Get Card Info
 		@Override
-	   public Carddto getCard(long id) throws CardNotFoundException{ 
-			Optional<Card> optional = iCardRepository.findById(id);
+	   public Carddto getCard(long cardId) throws CardNotFoundException{ 
+			Optional<Card> optional = iCardRepository.findById(cardId);
 			Card card  = optional.orElseThrow(() -> new CardNotFoundException("Service.Card_NOT_FOUND"));
 			Carddto carddto = Carddto.entityToDTO(card);
 			return carddto;
@@ -38,7 +38,7 @@ public class ICardServiceImp implements ICardService{
 		//Add Card 
 		@Override
 		public Carddto addCard(Carddto card) throws CardAlreadyExistsException{
-			Optional<Card> cards = iCardRepository.findById(card.getId());
+			Optional<Card> cards = iCardRepository.findById(card.getCardId());
 			if(cards.isPresent())
 			{
 				throw new CardAlreadyExistsException("Service.Card_ALREADY_EXISTS");
@@ -63,10 +63,10 @@ public class ICardServiceImp implements ICardService{
 		}
 		//Delete Card Information
 				@Override
-				public void deleteCard(long id) throws CardNotFoundException{
-					Optional<Card> card1 = iCardRepository.findById(id);
+				public void deleteCard(long cardId) throws CardNotFoundException{
+					Optional<Card> card1 = iCardRepository.findById(cardId);
 					Card c = card1.orElseThrow(() -> new CardNotFoundException("Service.Card_NOT_FOUND"));
-					iCardRepository.deleteById(id);
+					iCardRepository.deleteById(cardId);
 				}
 
 }

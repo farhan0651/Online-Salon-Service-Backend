@@ -49,9 +49,9 @@ public class CardAPI {
 	}
 	
 	@CrossOrigin(origins="http://localhost:3000")
-	@GetMapping(value = "{id}")
-	public ResponseEntity<Carddto> getCard(@PathVariable @Min(value=1,message ="Please give id >=1") Long id) throws CardNotFoundException{
-		Carddto card = iCardService.getCard(id); 
+	@GetMapping(value = "{cardId}")
+	public ResponseEntity<Carddto> getCard(@PathVariable @Min(value=1,message ="Please give id >=1") Long cardId) throws CardNotFoundException{
+		Carddto card = iCardService.getCard(cardId); 
 		LOGGER.info(environment.getProperty("getCardbyId"));
 		return new ResponseEntity<>(card, HttpStatus.OK);
 	}
@@ -64,10 +64,10 @@ public class CardAPI {
 	}
 	
 	@CrossOrigin(origins="http://localhost:3000")
-	@DeleteMapping(value = "/deleteCard/{id}")
-	public ResponseEntity<String> deleteCard(@PathVariable @Min(value=1,message ="Please give id >=1") Long id)
+	@DeleteMapping(value = "/deleteCard/{cardId}")
+	public ResponseEntity<String> deleteCard(@PathVariable @Min(value=1,message ="Please give cardId >=1") Long cardId)
 			throws CardNotFoundException {
-		iCardService.deleteCard(id);
+		iCardService.deleteCard(cardId);
 		String successMessage = environment.getProperty("CardDeletedSuccessfully");
 		LOGGER.info(successMessage);
 		return new ResponseEntity<>(successMessage ,HttpStatus.OK);

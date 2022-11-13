@@ -14,7 +14,7 @@ import com.capg.dto.Carddto;
 public class Card {
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
-	private long id;
+	private long cardId;
 	private String cardName;
 	private String cardNumber;
 	private String bankName ;
@@ -22,7 +22,7 @@ public class Card {
 	
 	public static Card DTOToentity(Carddto carddto) {
 		Card card2 = new Card();
-		card2.setId(carddto.getId());
+		card2.setCardId(carddto.getCardId());
 		card2.setCardName(carddto.getCardName());
 		card2.setCardNumber(carddto.getCardNumber());
 		card2.setBankName(carddto.getBankName());
@@ -38,17 +38,17 @@ public class Card {
 	}
 	public Card(long id, String cardName, String cardNumber, String bankName, LocalDate expiryDate) {
 		super();
-		this.id = id;
+		this.cardId = id;
 		this.cardName = cardName;
 		this.cardNumber = cardNumber;
 		this.bankName = bankName;
 		this.expiryDate = expiryDate;
 	}
-	public long getId() {
-		return id;
+	public long getCardId() {
+		return cardId;
 	}
-	public void setId(long id) {
-		this.id = id;
+	public void setCardId(long cardId) {
+		this.cardId = cardId;
 	}
 	public String getCardName() {
 		return cardName;
@@ -76,13 +76,13 @@ public class Card {
 	}
 	@Override
 	public String toString() {
-		return "Card [id=" + id + ", cardName=" + cardName + ", cardNumber=" + cardNumber + ", bankName=" + bankName
+		return "Card [id=" + cardId + ", cardName=" + cardName + ", cardNumber=" + cardNumber + ", bankName=" + bankName
 				+ ", expiryDate=" + expiryDate + "]";
 	}
 
 	@Override
 	public int hashCode() {
-		return Objects.hash(bankName, cardName, cardNumber, expiryDate, id);
+		return Objects.hash(bankName, cardName, cardNumber, expiryDate, cardId);
 	}
 
 	@Override
@@ -96,7 +96,7 @@ public class Card {
 		Card other = (Card) obj;
 		return Objects.equals(bankName, other.bankName) && Objects.equals(cardName, other.cardName)
 				&& Objects.equals(cardNumber, other.cardNumber) && Objects.equals(expiryDate, other.expiryDate)
-				&& id == other.id;
+				&& cardId == other.cardId;
 	}
 	
    

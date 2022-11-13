@@ -2197,3 +2197,848 @@
 12-Nov-2022 14:25:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
 12-Nov-2022 14:25:46 INFO - No active profile set, falling back to 1 default profile: "default"
 12-Nov-2022 14:25:48 INFO - Started OnlineSsApplication in 1.583 seconds (JVM running for 7443.205)
+12-Nov-2022 15:00:21 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 7908 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:00:21 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:00:21 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:01:13 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 512 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:01:13 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:01:13 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:02:16 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 10928 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:02:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:02:16 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:03:35 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:03:35 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:03:35 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:03:41 INFO - Started OnlineSsApplication in 6.94 seconds (JVM running for 8.153)
+12-Nov-2022 15:14:43 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:14:43 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:14:43 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:14:45 INFO - Started OnlineSsApplication in 2.088 seconds (JVM running for 672.064)
+12-Nov-2022 15:15:06 INFO - null
+12-Nov-2022 15:15:23 INFO - null
+12-Nov-2022 15:16:09 INFO - null
+12-Nov-2022 15:16:38 INFO - null
+12-Nov-2022 15:18:28 INFO - null
+12-Nov-2022 15:18:28 INFO - null
+12-Nov-2022 15:18:35 INFO - null
+12-Nov-2022 15:18:35 INFO - null
+12-Nov-2022 15:18:37 INFO - null
+12-Nov-2022 15:18:37 INFO - null
+12-Nov-2022 15:18:41 INFO - null
+12-Nov-2022 15:18:41 INFO - null
+12-Nov-2022 15:18:43 INFO - null
+12-Nov-2022 15:18:43 INFO - null
+12-Nov-2022 15:18:47 INFO - null
+12-Nov-2022 15:18:48 INFO - null
+12-Nov-2022 15:18:48 INFO - null
+12-Nov-2022 15:18:50 INFO - null
+12-Nov-2022 15:18:50 INFO - null
+12-Nov-2022 15:18:52 INFO - null
+12-Nov-2022 15:18:52 INFO - null
+12-Nov-2022 15:54:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:54:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:54:03 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:54:07 INFO - Started OnlineSsApplication in 4.037 seconds (JVM running for 3034.027)
+12-Nov-2022 15:58:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:58:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:58:51 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:58:55 INFO - Started OnlineSsApplication in 4.065 seconds (JVM running for 3322.013)
+12-Nov-2022 15:59:54 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 15:59:54 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 15:59:54 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 15:59:58 INFO - Started OnlineSsApplication in 3.82 seconds (JVM running for 3384.356)
+12-Nov-2022 16:02:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:02:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:02:01 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:02:05 INFO - Started OnlineSsApplication in 3.868 seconds (JVM running for 3512.047)
+12-Nov-2022 16:02:39 INFO - null
+12-Nov-2022 16:03:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:03:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:03:46 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:03:50 INFO - Started OnlineSsApplication in 3.633 seconds (JVM running for 3616.641)
+12-Nov-2022 16:03:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:03:55 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:03:55 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:03:59 INFO - Started OnlineSsApplication in 3.768 seconds (JVM running for 3625.769)
+12-Nov-2022 16:04:02 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:04:02 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:04:02 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:04:06 INFO - Started OnlineSsApplication in 3.858 seconds (JVM running for 3632.876)
+12-Nov-2022 16:05:26 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:05:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:05:26 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:05:30 INFO - Started OnlineSsApplication in 3.983 seconds (JVM running for 3717.031)
+12-Nov-2022 16:05:50 INFO - null
+12-Nov-2022 16:06:48 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:06:48 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:06:48 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:06:52 INFO - Started OnlineSsApplication in 3.711 seconds (JVM running for 3798.494)
+12-Nov-2022 16:07:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:07:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:07:01 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:07:05 INFO - Started OnlineSsApplication in 3.764 seconds (JVM running for 3811.866)
+12-Nov-2022 16:07:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:07:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:07:23 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:07:27 INFO - Started OnlineSsApplication in 3.739 seconds (JVM running for 3833.561)
+12-Nov-2022 16:07:29 INFO - null
+12-Nov-2022 16:07:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:07:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:07:47 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:07:51 INFO - Started OnlineSsApplication in 3.761 seconds (JVM running for 3857.536)
+12-Nov-2022 16:08:19 INFO - null
+12-Nov-2022 16:08:46 INFO - null
+12-Nov-2022 16:08:46 INFO - null
+12-Nov-2022 16:12:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:12:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:12:58 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:12:59 INFO - Started OnlineSsApplication in 1.956 seconds (JVM running for 4166.267)
+12-Nov-2022 16:13:57 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:13:57 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:13:57 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:13:59 INFO - Started OnlineSsApplication in 1.865 seconds (JVM running for 4225.368)
+12-Nov-2022 16:14:17 INFO - null
+12-Nov-2022 16:16:01 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:16:01 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:16:01 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:16:02 INFO - Started OnlineSsApplication in 1.88 seconds (JVM running for 4349.147)
+12-Nov-2022 16:16:06 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:16:06 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:16:06 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:16:08 INFO - Started OnlineSsApplication in 1.882 seconds (JVM running for 4354.555)
+12-Nov-2022 16:16:31 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:16:31 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:16:31 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:16:33 INFO - Started OnlineSsApplication in 1.914 seconds (JVM running for 4379.545)
+12-Nov-2022 16:21:00 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:21:00 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:21:00 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:21:02 INFO - Started OnlineSsApplication in 1.734 seconds (JVM running for 4648.95)
+12-Nov-2022 16:21:20 INFO - null
+12-Nov-2022 16:22:04 INFO - null
+12-Nov-2022 16:22:51 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:22:51 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:22:51 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:22:53 INFO - Started OnlineSsApplication in 1.708 seconds (JVM running for 4759.883)
+12-Nov-2022 16:23:11 INFO - null
+12-Nov-2022 16:24:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:24:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:24:58 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:25:00 INFO - Started OnlineSsApplication in 1.803 seconds (JVM running for 4886.996)
+12-Nov-2022 16:25:34 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:25:34 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:25:34 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:25:36 INFO - Started OnlineSsApplication in 1.902 seconds (JVM running for 4922.74)
+12-Nov-2022 16:25:56 INFO - null
+12-Nov-2022 16:28:10 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:28:10 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:28:10 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:28:12 INFO - Started OnlineSsApplication in 2.053 seconds (JVM running for 5078.587)
+12-Nov-2022 16:29:43 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:29:43 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:29:43 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:29:45 INFO - Started OnlineSsApplication in 1.934 seconds (JVM running for 5171.924)
+12-Nov-2022 16:29:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:29:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:29:59 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:30:01 INFO - Started OnlineSsApplication in 1.826 seconds (JVM running for 5187.702)
+12-Nov-2022 16:31:13 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:31:13 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:31:13 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:31:15 INFO - Started OnlineSsApplication in 1.983 seconds (JVM running for 5262.015)
+12-Nov-2022 16:33:25 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:33:25 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:33:25 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:33:27 INFO - Started OnlineSsApplication in 2.026 seconds (JVM running for 5394.183)
+12-Nov-2022 16:40:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:40:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:40:28 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:40:29 INFO - Started OnlineSsApplication in 1.838 seconds (JVM running for 5816.17)
+12-Nov-2022 16:40:54 INFO - null
+12-Nov-2022 16:46:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 16:46:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 16:46:05 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 16:46:07 INFO - Started OnlineSsApplication in 1.73 seconds (JVM running for 6153.371)
+12-Nov-2022 16:46:19 INFO - null
+12-Nov-2022 17:00:16 INFO - null
+12-Nov-2022 17:02:27 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 8644 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:02:27 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:02:27 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:02:28 INFO - Started OnlineSsApplication in 1.78 seconds (JVM running for 7135.045)
+12-Nov-2022 17:02:50 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 15652 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:02:50 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:02:50 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:03:19 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:03:19 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:03:19 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:03:24 INFO - Started OnlineSsApplication in 6.207 seconds (JVM running for 7.343)
+12-Nov-2022 17:03:38 INFO - null
+12-Nov-2022 17:07:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:07:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:07:17 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:07:19 INFO - Started OnlineSsApplication in 2.017 seconds (JVM running for 241.584)
+12-Nov-2022 17:33:01 INFO - null
+12-Nov-2022 17:36:48 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:36:48 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:36:48 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:36:49 INFO - Started OnlineSsApplication in 1.849 seconds (JVM running for 2012.344)
+12-Nov-2022 17:38:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:38:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:38:24 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:38:26 INFO - Started OnlineSsApplication in 1.735 seconds (JVM running for 2108.816)
+12-Nov-2022 17:41:19 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:41:19 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:41:19 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:41:21 INFO - Started OnlineSsApplication in 1.8 seconds (JVM running for 2284.153)
+12-Nov-2022 17:45:40 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:45:40 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:45:40 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:45:42 INFO - Started OnlineSsApplication in 1.552 seconds (JVM running for 2544.56)
+12-Nov-2022 17:45:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 11992 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:45:55 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:45:55 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:45:57 INFO - Started OnlineSsApplication in 1.693 seconds (JVM running for 2560.045)
+12-Nov-2022 17:46:22 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 13588 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:46:22 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:46:22 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:46:45 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 13852 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:46:45 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:46:45 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:46:50 INFO - Started OnlineSsApplication in 5.505 seconds (JVM running for 6.511)
+12-Nov-2022 17:49:25 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 13852 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:49:25 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:49:25 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:49:27 INFO - Started OnlineSsApplication in 1.854 seconds (JVM running for 163.857)
+12-Nov-2022 17:49:55 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 13852 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:49:55 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:49:55 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:50:29 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 13852 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:50:29 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:50:29 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:50:30 INFO - Started OnlineSsApplication in 1.751 seconds (JVM running for 226.886)
+12-Nov-2022 17:52:24 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 18880 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:52:24 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:52:24 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:52:29 INFO - Started OnlineSsApplication in 5.924 seconds (JVM running for 6.987)
+12-Nov-2022 17:52:40 INFO - null
+12-Nov-2022 17:57:26 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 20052 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 17:57:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 17:57:26 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 17:57:31 INFO - Started OnlineSsApplication in 6.17 seconds (JVM running for 7.234)
+12-Nov-2022 18:06:23 INFO - null
+12-Nov-2022 18:13:17 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 20052 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 18:13:17 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 18:13:17 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 18:13:19 INFO - Started OnlineSsApplication in 2.188 seconds (JVM running for 954.801)
+12-Nov-2022 18:13:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 20052 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 18:13:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 18:13:59 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 18:14:46 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 20052 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 18:14:46 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 18:14:46 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 18:14:48 INFO - Started OnlineSsApplication in 1.867 seconds (JVM running for 1043.828)
+12-Nov-2022 18:19:03 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 20052 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 18:19:03 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 18:19:03 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 18:19:05 INFO - Started OnlineSsApplication in 2.122 seconds (JVM running for 1301.096)
+12-Nov-2022 18:19:44 INFO - null
+12-Nov-2022 18:21:21 INFO - null
+12-Nov-2022 22:01:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:01:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:01:23 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:01:30 INFO - Started OnlineSsApplication in 6.942 seconds (JVM running for 7.978)
+12-Nov-2022 22:06:47 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:06:47 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:06:47 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:06:50 INFO - Started OnlineSsApplication in 2.807 seconds (JVM running for 328.057)
+12-Nov-2022 22:07:33 INFO - null
+12-Nov-2022 22:14:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:14:39 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:14:39 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:14:41 INFO - Started OnlineSsApplication in 2.904 seconds (JVM running for 799.427)
+12-Nov-2022 22:14:44 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:14:44 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:14:44 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:14:46 INFO - Started OnlineSsApplication in 2.761 seconds (JVM running for 804.431)
+12-Nov-2022 22:20:13 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:20:13 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:20:13 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:20:16 INFO - Started OnlineSsApplication in 2.639 seconds (JVM running for 1133.523)
+12-Nov-2022 22:23:07 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:23:07 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:23:07 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:23:10 INFO - Started OnlineSsApplication in 2.548 seconds (JVM running for 1307.499)
+12-Nov-2022 22:23:19 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:23:19 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:23:19 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:23:21 INFO - Started OnlineSsApplication in 2.534 seconds (JVM running for 1319.256)
+12-Nov-2022 22:34:26 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:34:26 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:34:26 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:34:29 INFO - Started OnlineSsApplication in 2.609 seconds (JVM running for 1987.076)
+12-Nov-2022 22:36:52 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:36:52 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:36:52 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:36:54 INFO - Started OnlineSsApplication in 2.528 seconds (JVM running for 2132.418)
+12-Nov-2022 22:37:23 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:37:23 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:37:23 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:37:25 INFO - Started OnlineSsApplication in 2.486 seconds (JVM running for 2163.152)
+12-Nov-2022 22:37:44 INFO - null
+12-Nov-2022 22:40:05 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:40:05 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:40:05 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:40:07 INFO - Started OnlineSsApplication in 2.668 seconds (JVM running for 2325.372)
+12-Nov-2022 22:42:57 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:42:57 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:42:57 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:42:59 INFO - Started OnlineSsApplication in 2.557 seconds (JVM running for 2497.157)
+12-Nov-2022 22:43:39 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on LAPTOP-0QS1Q6U4 with PID 3340 (C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main\target\classes started by visha in C:\Users\visha\Downloads\Online-Salon-Service-main (3)\Online-Salon-Service-main)
+12-Nov-2022 22:43:39 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+12-Nov-2022 22:43:39 INFO - No active profile set, falling back to 1 default profile: "default"
+12-Nov-2022 22:43:42 INFO - Started OnlineSsApplication in 2.534 seconds (JVM running for 2539.96)
+12-Nov-2022 22:44:15 INFO - null
+12-Nov-2022 22:45:09 INFO - null
+12-Nov-2022 22:45:44 INFO - null
+12-Nov-2022 22:46:06 INFO - null
+12-Nov-2022 22:49:58 INFO - null
+12-Nov-2022 22:49:58 INFO - null
+12-Nov-2022 22:49:59 INFO - null
+12-Nov-2022 22:49:59 INFO - null
+12-Nov-2022 23:06:26 INFO - null
+12-Nov-2022 23:09:20 INFO - null
+13-Nov-2022 00:20:36 INFO - null
+13-Nov-2022 00:20:38 INFO - null
+13-Nov-2022 00:20:38 INFO - null
+13-Nov-2022 00:20:43 INFO - null
+13-Nov-2022 00:20:44 INFO - null
+13-Nov-2022 10:30:04 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4332 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:30:04 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:30:04 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:31:00 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:31:00 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:31:00 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:31:05 INFO - Started OnlineSsApplication in 5.845 seconds (JVM running for 6.821)
+13-Nov-2022 10:32:40 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:32:40 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:32:40 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:32:42 INFO - Started OnlineSsApplication in 1.652 seconds (JVM running for 103.79)
+13-Nov-2022 10:32:57 INFO - null
+13-Nov-2022 10:33:42 INFO - nullAppointment [appointmentId=112, location=Kerala, visitType=Open, preferredDate=2022-11-12, preferredTime=14:12:16, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=113, type=Card, status=Paid, card=Card [id=16, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 10:36:26 INFO - null
+13-Nov-2022 10:38:25 INFO - null
+13-Nov-2022 10:47:11 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:47:11 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:47:11 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:47:14 INFO - Started OnlineSsApplication in 2.968 seconds (JVM running for 975.669)
+13-Nov-2022 10:47:15 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:47:15 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:47:15 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:47:17 INFO - Started OnlineSsApplication in 1.809 seconds (JVM running for 978.868)
+13-Nov-2022 10:47:28 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:47:28 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:47:28 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:47:30 INFO - Started OnlineSsApplication in 2.252 seconds (JVM running for 991.812)
+13-Nov-2022 10:49:18 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:49:18 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:49:18 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:49:21 INFO - Started OnlineSsApplication in 3.183 seconds (JVM running for 1103.047)
+13-Nov-2022 10:49:59 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:49:59 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:49:59 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:50:06 INFO - Started OnlineSsApplication in 7.491 seconds (JVM running for 1147.757)
+13-Nov-2022 10:51:08 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:51:08 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:51:08 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:51:11 INFO - Started OnlineSsApplication in 2.844 seconds (JVM running for 1212.877)
+13-Nov-2022 10:51:13 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 12764 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 10:51:13 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 10:51:13 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 10:53:02 INFO - null
+13-Nov-2022 10:53:46 INFO - nullAppointment [appointmentId=116, location=Kerala, visitType=Open, preferredDate=2022-11-12, preferredTime=14:12:16, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=117, type=Card, status=Paid, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 10:54:19 INFO - null
+13-Nov-2022 10:59:32 INFO - null
+13-Nov-2022 10:59:32 INFO - null
+13-Nov-2022 11:02:28 INFO - null
+13-Nov-2022 11:02:28 INFO - null
+13-Nov-2022 11:06:34 INFO - null
+13-Nov-2022 11:06:44 INFO - null
+13-Nov-2022 11:06:45 INFO - null
+13-Nov-2022 11:06:47 INFO - null
+13-Nov-2022 11:06:47 INFO - null
+13-Nov-2022 11:08:09 INFO - null
+13-Nov-2022 11:08:09 INFO - null
+13-Nov-2022 11:08:12 INFO - null
+13-Nov-2022 11:08:12 INFO - null
+13-Nov-2022 11:08:28 INFO - null
+13-Nov-2022 11:08:29 INFO - null
+13-Nov-2022 11:08:31 INFO - null
+13-Nov-2022 11:08:31 INFO - null
+13-Nov-2022 11:08:45 INFO - null
+13-Nov-2022 11:08:45 INFO - null
+13-Nov-2022 11:12:38 INFO - null
+13-Nov-2022 11:12:45 INFO - null
+13-Nov-2022 11:12:46 INFO - null
+13-Nov-2022 11:36:12 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 13220 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 11:36:12 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 11:36:12 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 11:36:22 INFO - Started OnlineSsApplication in 10.488 seconds (JVM running for 13.575)
+13-Nov-2022 11:36:58 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 11:36:58 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 11:36:58 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 11:37:09 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 2732 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 11:37:09 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 11:37:09 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 11:40:54 INFO - null
+13-Nov-2022 11:42:55 INFO - null
+13-Nov-2022 11:43:40 INFO - null
+13-Nov-2022 12:09:34 INFO - null
+13-Nov-2022 12:09:34 INFO - null
+13-Nov-2022 12:31:33 INFO - null
+13-Nov-2022 12:37:10 INFO - null
+13-Nov-2022 12:37:11 INFO - null
+13-Nov-2022 12:37:52 INFO - null
+13-Nov-2022 12:37:53 INFO - null
+13-Nov-2022 12:39:06 INFO - null
+13-Nov-2022 12:39:07 INFO - null
+13-Nov-2022 12:39:23 INFO - null
+13-Nov-2022 12:39:23 INFO - null
+13-Nov-2022 12:39:43 INFO - null
+13-Nov-2022 12:39:43 INFO - null
+13-Nov-2022 12:58:55 INFO - null
+13-Nov-2022 13:00:18 INFO - null
+13-Nov-2022 13:00:52 INFO - null
+13-Nov-2022 13:00:52 INFO - null
+13-Nov-2022 13:01:42 INFO - null
+13-Nov-2022 13:02:59 INFO - null
+13-Nov-2022 13:03:56 INFO - null
+13-Nov-2022 13:07:44 INFO - null
+13-Nov-2022 13:07:44 INFO - null
+13-Nov-2022 13:08:13 INFO - null
+13-Nov-2022 13:09:48 INFO - null
+13-Nov-2022 13:09:48 INFO - null
+13-Nov-2022 13:10:31 INFO - null
+13-Nov-2022 13:10:31 INFO - null
+13-Nov-2022 13:15:50 INFO - null
+13-Nov-2022 13:19:47 INFO - null
+13-Nov-2022 13:23:05 INFO - null
+13-Nov-2022 13:25:54 INFO - null
+13-Nov-2022 14:06:08 INFO - null
+13-Nov-2022 14:06:09 INFO - null
+13-Nov-2022 14:06:11 INFO - null
+13-Nov-2022 14:06:14 INFO - null
+13-Nov-2022 16:37:42 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 9800 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 16:37:42 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 16:37:42 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 16:38:06 INFO - Started OnlineSsApplication in 24.466 seconds (JVM running for 32.605)
+13-Nov-2022 16:38:11 INFO - null
+13-Nov-2022 16:38:11 INFO - null
+13-Nov-2022 16:38:13 INFO - null
+13-Nov-2022 16:38:13 INFO - null
+13-Nov-2022 16:38:52 INFO - nullAppointment [appointmentId=118, location=Rajasthan, visitType=Open, preferredDate=2022-11-17, preferredTime=12:15:16, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=119, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 16:39:38 INFO - null
+13-Nov-2022 16:39:38 INFO - null
+13-Nov-2022 16:40:57 INFO - null
+13-Nov-2022 16:40:57 INFO - null
+13-Nov-2022 16:42:00 INFO - nullAppointment [appointmentId=120, location=Pondichery, visitType=Open, preferredDate=2022-11-16, preferredTime=12:15:12, salonService=SalonService [serviceId=9, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=121, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 16:42:00 INFO - null
+13-Nov-2022 17:17:42 INFO - null
+13-Nov-2022 17:17:42 INFO - null
+13-Nov-2022 17:20:35 INFO - nullAppointment [appointmentId=123, location=Noida, visitType=Close, preferredDate=2022-11-25, preferredTime=12:14:16, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=124, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:24:40 INFO - null
+13-Nov-2022 17:24:42 INFO - null
+13-Nov-2022 17:24:46 INFO - null
+13-Nov-2022 17:24:46 INFO - null
+13-Nov-2022 17:25:29 INFO - nullAppointment [appointmentId=126, location=Punjab, visitType=Closed, preferredDate=2022-11-17, preferredTime=14:12:13, salonService=SalonService [serviceId=1, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=127, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:26:26 INFO - nullAppointment [appointmentId=129, location=Punj, visitType=Closed, preferredDate=2022-11-17, preferredTime=14:12:13, salonService=SalonService [serviceId=1, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=130, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:35:26 INFO - null
+13-Nov-2022 17:40:29 INFO - null
+13-Nov-2022 17:40:29 INFO - null
+13-Nov-2022 17:40:31 INFO - null
+13-Nov-2022 17:40:31 INFO - null
+13-Nov-2022 17:41:04 INFO - nullAppointment [appointmentId=133, location=Nagaland, visitType=Closed, preferredDate=2022-11-23, preferredTime=12:15:13, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=134, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:50:23 INFO - nullAppointment [appointmentId=135, location=Meghalya, visitType=Closed, preferredDate=2022-11-23, preferredTime=12:15:13, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=137, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:51:41 INFO - nullAppointment [appointmentId=138, location=Karnataka, visitType=Closed, preferredDate=2022-11-23, preferredTime=12:15:13, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=139, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:52:43 INFO - null
+13-Nov-2022 17:52:43 INFO - null
+13-Nov-2022 17:52:43 INFO - null
+13-Nov-2022 17:52:43 INFO - null
+13-Nov-2022 17:53:35 INFO - nullAppointment [appointmentId=140, location=Ludhiana, visitType=Closed, preferredDate=2022-11-18, preferredTime=14:15:15, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=141, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:54:18 INFO - null
+13-Nov-2022 17:54:18 INFO - null
+13-Nov-2022 17:54:18 INFO - null
+13-Nov-2022 17:54:18 INFO - null
+13-Nov-2022 17:55:03 INFO - nullAppointment [appointmentId=143, location=Ratlaam, visitType=Closed, preferredDate=2022-11-26, preferredTime=14:12:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=144, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 17:58:46 INFO - null
+13-Nov-2022 17:58:46 INFO - nullAppointment [appointmentId=146, location=Ratlaam, visitType=Closed, preferredDate=2022-11-26, preferredTime=14:12:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=147, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 18:00:21 INFO - null
+13-Nov-2022 18:00:54 INFO - null
+13-Nov-2022 18:00:54 INFO - null
+13-Nov-2022 18:01:58 INFO - null
+13-Nov-2022 18:01:58 INFO - null
+13-Nov-2022 18:02:00 INFO - null
+13-Nov-2022 18:02:00 INFO - null
+13-Nov-2022 18:06:39 INFO - null
+13-Nov-2022 18:06:39 INFO - null
+13-Nov-2022 18:06:39 INFO - null
+13-Nov-2022 18:06:39 INFO - null
+13-Nov-2022 18:06:55 INFO - null
+13-Nov-2022 18:06:55 INFO - null
+13-Nov-2022 18:07:04 INFO - null
+13-Nov-2022 18:07:04 INFO - null
+13-Nov-2022 18:07:09 INFO - null
+13-Nov-2022 18:07:09 INFO - null
+13-Nov-2022 18:08:41 INFO - nullAppointment [appointmentId=149, location=Lucknow, visitType=Close, preferredDate=2022-11-25, preferredTime=14:12:16, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=150, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 18:09:58 INFO - null
+13-Nov-2022 18:09:58 INFO - null
+13-Nov-2022 18:09:58 INFO - null
+13-Nov-2022 18:09:58 INFO - null
+13-Nov-2022 18:10:37 INFO - nullAppointment [appointmentId=152, location=Haryana, visitType=Close, preferredDate=2022-12-01, preferredTime=14:12:15, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=153, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 18:11:24 INFO - null
+13-Nov-2022 18:11:24 INFO - null
+13-Nov-2022 18:11:24 INFO - null
+13-Nov-2022 18:11:24 INFO - null
+13-Nov-2022 18:12:15 INFO - nullAppointment [appointmentId=155, location=Orissa, visitType=Open, preferredDate=2022-11-24, preferredTime=15:12:16, salonService=SalonService [serviceId=7, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=156, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 18:12:26 INFO - null
+13-Nov-2022 18:12:26 INFO - null
+13-Nov-2022 18:13:33 INFO - null
+13-Nov-2022 18:13:33 INFO - null
+13-Nov-2022 18:13:33 INFO - null
+13-Nov-2022 18:13:33 INFO - null
+13-Nov-2022 18:13:37 INFO - null
+13-Nov-2022 18:13:37 INFO - null
+13-Nov-2022 18:13:53 INFO - null
+13-Nov-2022 18:13:53 INFO - null
+13-Nov-2022 18:17:27 INFO - null
+13-Nov-2022 18:17:27 INFO - null
+13-Nov-2022 18:46:41 INFO - null
+13-Nov-2022 18:46:41 INFO - null
+13-Nov-2022 18:46:46 INFO - null
+13-Nov-2022 18:46:46 INFO - null
+13-Nov-2022 18:46:47 INFO - null
+13-Nov-2022 18:46:47 INFO - null
+13-Nov-2022 18:47:21 INFO - nullAppointment [appointmentId=159, location=Ludhiana, visitType=Open, preferredDate=2022-11-23, preferredTime=14:12:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=160, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 18:49:59 INFO - null
+13-Nov-2022 18:50:00 INFO - nullAppointment [appointmentId=162, location=Ludhiana, visitType=Open, preferredDate=2022-11-23, preferredTime=14:12:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=163, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 18:50:44 INFO - null
+13-Nov-2022 18:50:44 INFO - null
+13-Nov-2022 18:51:29 INFO - null
+13-Nov-2022 18:51:29 INFO - null
+13-Nov-2022 18:51:32 INFO - null
+13-Nov-2022 18:51:32 INFO - null
+13-Nov-2022 18:51:35 INFO - null
+13-Nov-2022 18:51:35 INFO - null
+13-Nov-2022 18:51:36 INFO - null
+13-Nov-2022 18:51:36 INFO - null
+13-Nov-2022 18:51:39 INFO - null
+13-Nov-2022 18:51:39 INFO - null
+13-Nov-2022 18:52:10 INFO - null
+13-Nov-2022 18:52:10 INFO - null
+13-Nov-2022 19:08:53 INFO - null
+13-Nov-2022 19:08:53 INFO - null
+13-Nov-2022 19:08:54 INFO - null
+13-Nov-2022 19:08:54 INFO - null
+13-Nov-2022 19:10:16 INFO - nullAppointment [appointmentId=164, location=Ranchi, visitType=Open, preferredDate=2022-11-24, preferredTime=14:12:12, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=165, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:10:20 INFO - nullAppointment [appointmentId=167, location=Ranchi, visitType=Open, preferredDate=2022-11-24, preferredTime=14:12:12, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=168, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:10:20 INFO - null
+13-Nov-2022 19:10:29 INFO - null
+13-Nov-2022 19:10:29 INFO - null
+13-Nov-2022 19:10:54 INFO - null
+13-Nov-2022 19:10:54 INFO - null
+13-Nov-2022 19:10:56 INFO - null
+13-Nov-2022 19:10:56 INFO - null
+13-Nov-2022 19:12:27 INFO - nullAppointment [appointmentId=170, location=Patna, visitType=Open, preferredDate=2022-11-24, preferredTime=14:12:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=171, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:12:33 INFO - nullAppointment [appointmentId=173, location=Patna, visitType=Open, preferredDate=2022-11-24, preferredTime=14:12:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=174, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:12:33 INFO - null
+13-Nov-2022 19:12:41 INFO - null
+13-Nov-2022 19:12:41 INFO - null
+13-Nov-2022 19:16:17 INFO - null
+13-Nov-2022 19:16:25 INFO - null
+13-Nov-2022 19:16:25 INFO - null
+13-Nov-2022 19:16:31 INFO - null
+13-Nov-2022 19:16:31 INFO - null
+13-Nov-2022 19:17:36 INFO - nullAppointment [appointmentId=176, location=Patna, visitType=Open, preferredDate=2022-11-17, preferredTime=12:30:42, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=177, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:17:50 INFO - null
+13-Nov-2022 19:17:50 INFO - nullAppointment [appointmentId=179, location=Patna, visitType=Open, preferredDate=2022-11-17, preferredTime=12:30:42, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=180, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:17:57 INFO - null
+13-Nov-2022 19:17:57 INFO - null
+13-Nov-2022 19:18:10 INFO - null
+13-Nov-2022 19:18:10 INFO - null
+13-Nov-2022 19:18:24 INFO - null
+13-Nov-2022 19:18:30 INFO - null
+13-Nov-2022 19:18:30 INFO - null
+13-Nov-2022 19:18:43 INFO - null
+13-Nov-2022 19:18:43 INFO - null
+13-Nov-2022 19:18:51 INFO - null
+13-Nov-2022 19:18:51 INFO - null
+13-Nov-2022 19:19:22 INFO - null
+13-Nov-2022 19:19:22 INFO - null
+13-Nov-2022 19:19:24 INFO - null
+13-Nov-2022 19:19:24 INFO - null
+13-Nov-2022 19:19:39 INFO - null
+13-Nov-2022 19:19:39 INFO - null
+13-Nov-2022 19:19:41 INFO - null
+13-Nov-2022 19:19:41 INFO - null
+13-Nov-2022 19:19:45 INFO - null
+13-Nov-2022 19:19:45 INFO - null
+13-Nov-2022 19:19:47 INFO - null
+13-Nov-2022 19:19:47 INFO - null
+13-Nov-2022 19:19:50 INFO - null
+13-Nov-2022 19:19:50 INFO - null
+13-Nov-2022 19:20:34 INFO - nullAppointment [appointmentId=182, location=Banglore, visitType=Open, preferredDate=2022-11-18, preferredTime=12:15:12, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=183, type=Credit Card, status=PAta nahe, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:20:37 INFO - nullAppointment [appointmentId=185, location=Banglore, visitType=Open, preferredDate=2022-11-18, preferredTime=12:15:12, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=186, type=Credit Card, status=PAta nahe, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:20:37 INFO - null
+13-Nov-2022 19:20:40 INFO - null
+13-Nov-2022 19:20:40 INFO - null
+13-Nov-2022 19:20:50 INFO - null
+13-Nov-2022 19:20:51 INFO - null
+13-Nov-2022 19:22:09 INFO - null
+13-Nov-2022 19:22:09 INFO - null
+13-Nov-2022 19:22:12 INFO - null
+13-Nov-2022 19:22:12 INFO - null
+13-Nov-2022 19:22:54 INFO - nullAppointment [appointmentId=188, location=Mizoram, visitType=Open, preferredDate=2022-11-18, preferredTime=14:12:14, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=189, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:22:58 INFO - nullAppointment [appointmentId=191, location=Mizoram, visitType=Open, preferredDate=2022-11-18, preferredTime=14:12:14, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=192, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 19:22:58 INFO - null
+13-Nov-2022 19:23:10 INFO - null
+13-Nov-2022 19:23:10 INFO - null
+13-Nov-2022 19:28:41 INFO - null
+13-Nov-2022 19:28:41 INFO - null
+13-Nov-2022 19:29:41 INFO - null
+13-Nov-2022 19:29:41 INFO - null
+13-Nov-2022 19:53:45 INFO - null
+13-Nov-2022 19:53:45 INFO - null
+13-Nov-2022 19:54:21 INFO - null
+13-Nov-2022 19:54:21 INFO - null
+13-Nov-2022 19:54:21 INFO - null
+13-Nov-2022 19:54:21 INFO - null
+13-Nov-2022 19:55:07 INFO - null
+13-Nov-2022 19:55:07 INFO - null
+13-Nov-2022 20:00:29 INFO - null
+13-Nov-2022 20:00:29 INFO - null
+13-Nov-2022 20:00:51 INFO - null
+13-Nov-2022 20:00:51 INFO - null
+13-Nov-2022 20:00:56 INFO - null
+13-Nov-2022 20:00:56 INFO - null
+13-Nov-2022 21:15:50 INFO - null
+13-Nov-2022 21:15:50 INFO - null
+13-Nov-2022 21:16:28 INFO - null
+13-Nov-2022 21:16:28 INFO - null
+13-Nov-2022 21:16:30 INFO - null
+13-Nov-2022 21:16:30 INFO - null
+13-Nov-2022 21:16:49 INFO - null
+13-Nov-2022 21:18:31 INFO - null
+13-Nov-2022 21:19:21 INFO - null
+13-Nov-2022 21:19:21 INFO - null
+13-Nov-2022 21:19:33 INFO - null
+13-Nov-2022 21:19:33 INFO - null
+13-Nov-2022 21:19:36 INFO - null
+13-Nov-2022 21:19:36 INFO - null
+13-Nov-2022 21:22:20 INFO - null
+13-Nov-2022 21:22:20 INFO - null
+13-Nov-2022 21:23:10 INFO - nullAppointment [appointmentId=194, location=Ranchi, visitType=Open, preferredDate=2022-11-24, preferredTime=14:12:15, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=196, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 21:23:12 INFO - nullAppointment [appointmentId=197, location=Ranchi, visitType=Open, preferredDate=2022-11-24, preferredTime=14:12:15, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=198, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 21:23:12 INFO - null
+13-Nov-2022 21:23:25 INFO - null
+13-Nov-2022 21:23:25 INFO - null
+13-Nov-2022 21:23:37 INFO - null
+13-Nov-2022 21:23:37 INFO - null
+13-Nov-2022 21:29:22 INFO - null
+13-Nov-2022 21:29:22 INFO - null
+13-Nov-2022 21:30:04 INFO - null
+13-Nov-2022 21:30:04 INFO - null
+13-Nov-2022 21:30:06 INFO - null
+13-Nov-2022 21:30:06 INFO - null
+13-Nov-2022 21:30:07 INFO - null
+13-Nov-2022 21:30:07 INFO - null
+13-Nov-2022 21:30:11 INFO - null
+13-Nov-2022 21:30:11 INFO - null
+13-Nov-2022 21:30:12 INFO - null
+13-Nov-2022 21:30:12 INFO - null
+13-Nov-2022 21:30:14 INFO - null
+13-Nov-2022 21:30:14 INFO - null
+13-Nov-2022 21:38:00 INFO - null
+13-Nov-2022 21:38:00 INFO - null
+13-Nov-2022 21:39:05 INFO - null
+13-Nov-2022 21:39:05 INFO - null
+13-Nov-2022 21:39:36 INFO - null
+13-Nov-2022 21:39:57 INFO - null
+13-Nov-2022 21:41:21 INFO - null
+13-Nov-2022 21:41:34 INFO - null
+13-Nov-2022 21:49:58 INFO - null
+13-Nov-2022 21:49:58 INFO - null
+13-Nov-2022 21:49:58 INFO - null
+13-Nov-2022 21:49:58 INFO - null
+13-Nov-2022 21:50:04 INFO - null
+13-Nov-2022 21:50:04 INFO - null
+13-Nov-2022 21:50:07 INFO - null
+13-Nov-2022 21:50:07 INFO - null
+13-Nov-2022 21:50:07 INFO - null
+13-Nov-2022 21:50:07 INFO - null
+13-Nov-2022 21:50:33 INFO - null
+13-Nov-2022 21:51:34 INFO - nullAppointment [appointmentId=200, location=Jaipur, visitType=Open, preferredDate=2022-11-17, preferredTime=12:12:15, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=201, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 21:51:35 INFO - nullAppointment [appointmentId=203, location=Jaipur, visitType=Open, preferredDate=2022-11-17, preferredTime=12:12:15, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=204, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 21:51:35 INFO - null
+13-Nov-2022 21:52:11 INFO - null
+13-Nov-2022 21:53:08 INFO - nullAppointment [appointmentId=206, location=Jaipur, visitType=Open, preferredDate=2022-11-17, preferredTime=12:12:15, salonService=SalonService [serviceId=5, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=207, type=Card, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 21:53:08 INFO - null
+13-Nov-2022 21:53:22 INFO - nullAppointment [appointmentId=209, location=Kerala, visitType=Open, preferredDate=2022-11-12, preferredTime=14:12:16, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=210, type=Card, status=Paid, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 21:53:29 INFO - null
+13-Nov-2022 21:56:24 INFO - null
+13-Nov-2022 21:56:24 INFO - null
+13-Nov-2022 21:57:41 INFO - null
+13-Nov-2022 21:57:45 INFO - null
+13-Nov-2022 21:57:45 INFO - null
+13-Nov-2022 21:57:52 INFO - null
+13-Nov-2022 21:57:52 INFO - null
+13-Nov-2022 21:58:52 INFO - nullAppointment [appointmentId=211, location=Jodhpur, visitType=Open, preferredDate=2022-11-25, preferredTime=12:15:15, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=212, type=upi, status=null, card=null]]
+13-Nov-2022 21:59:16 INFO - null
+13-Nov-2022 21:59:45 INFO - null
+13-Nov-2022 22:02:53 INFO - null
+13-Nov-2022 22:02:58 INFO - null
+13-Nov-2022 22:02:58 INFO - null
+13-Nov-2022 22:03:01 INFO - null
+13-Nov-2022 22:03:01 INFO - null
+13-Nov-2022 22:03:38 INFO - nullAppointment [appointmentId=214, location=Gorakhpur, visitType=Open, preferredDate=2022-11-25, preferredTime=12:15:12, salonService=SalonService [serviceId=6, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=215, type=upi, status=null, card=null]]
+13-Nov-2022 22:03:58 INFO - null
+13-Nov-2022 22:04:46 INFO - null
+13-Nov-2022 22:04:46 INFO - null
+13-Nov-2022 22:04:49 INFO - null
+13-Nov-2022 22:04:49 INFO - null
+13-Nov-2022 22:04:54 INFO - null
+13-Nov-2022 22:04:54 INFO - null
+13-Nov-2022 22:18:26 INFO - null
+13-Nov-2022 22:18:26 INFO - null
+13-Nov-2022 22:18:31 INFO - null
+13-Nov-2022 22:18:31 INFO - null
+13-Nov-2022 22:18:37 INFO - null
+13-Nov-2022 22:18:37 INFO - null
+13-Nov-2022 22:19:21 INFO - null
+13-Nov-2022 22:19:21 INFO - null
+13-Nov-2022 22:19:57 INFO - nullAppointment [appointmentId=217, location=Bangkok, visitType=Open, preferredDate=2022-12-02, preferredTime=12:15:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=218, type=Cards, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 22:20:01 INFO - nullAppointment [appointmentId=220, location=Bangkok, visitType=Open, preferredDate=2022-12-02, preferredTime=12:15:12, salonService=SalonService [serviceId=2, serviceName=null, servicePrice=null, serviceDuration=null, discount=0], customer=Customer [customerId=1, name=null, email=null, contactNo=null, dob=null, user1=null, address=null], payment=Payment [paymentId=221, type=Cards, status=Done, card=Card [id=1, cardName=null, cardNumber=null, bankName=null, expiryDate=null]]]
+13-Nov-2022 22:20:01 INFO - null
+13-Nov-2022 22:20:33 INFO - null
+13-Nov-2022 22:22:04 INFO - null
+13-Nov-2022 22:22:07 INFO - null
+13-Nov-2022 22:22:07 INFO - null
+13-Nov-2022 22:22:10 INFO - null
+13-Nov-2022 22:22:10 INFO - null
+13-Nov-2022 22:23:12 INFO - null
+13-Nov-2022 22:23:12 INFO - null
+13-Nov-2022 22:23:14 INFO - null
+13-Nov-2022 22:23:14 INFO - null
+13-Nov-2022 22:25:05 INFO - null
+13-Nov-2022 22:25:20 INFO - null
+13-Nov-2022 22:25:20 INFO - null
+13-Nov-2022 22:25:23 INFO - null
+13-Nov-2022 22:25:23 INFO - null
+13-Nov-2022 22:25:38 INFO - null
+13-Nov-2022 22:25:38 INFO - null
+13-Nov-2022 22:26:10 INFO - null
+13-Nov-2022 22:26:17 INFO - null
+13-Nov-2022 22:26:26 INFO - null
+13-Nov-2022 22:26:31 INFO - null
+13-Nov-2022 22:26:31 INFO - null
+13-Nov-2022 22:26:44 INFO - null
+13-Nov-2022 23:00:01 INFO - null
+13-Nov-2022 23:00:01 INFO - null
+13-Nov-2022 23:00:04 INFO - null
+13-Nov-2022 23:00:04 INFO - null
+13-Nov-2022 23:00:10 INFO - null
+13-Nov-2022 23:00:10 INFO - null
+13-Nov-2022 23:00:11 INFO - null
+13-Nov-2022 23:00:11 INFO - null
+13-Nov-2022 23:20:28 INFO - null
+13-Nov-2022 23:20:28 INFO - null
+13-Nov-2022 23:20:57 INFO - null
+13-Nov-2022 23:20:57 INFO - null
+13-Nov-2022 23:21:46 INFO - null
+13-Nov-2022 23:21:46 INFO - null
+13-Nov-2022 23:21:47 INFO - null
+13-Nov-2022 23:21:47 INFO - null
+13-Nov-2022 23:21:48 INFO - null
+13-Nov-2022 23:21:48 INFO - null
+13-Nov-2022 23:21:50 INFO - null
+13-Nov-2022 23:21:50 INFO - null
+13-Nov-2022 23:23:20 INFO - null
+13-Nov-2022 23:23:20 INFO - null
+13-Nov-2022 23:23:21 INFO - null
+13-Nov-2022 23:23:21 INFO - null
+13-Nov-2022 23:23:22 INFO - null
+13-Nov-2022 23:23:22 INFO - null
+13-Nov-2022 23:23:23 INFO - null
+13-Nov-2022 23:23:23 INFO - null
+13-Nov-2022 23:23:25 INFO - null
+13-Nov-2022 23:23:25 INFO - null
+13-Nov-2022 23:23:26 INFO - null
+13-Nov-2022 23:23:26 INFO - null
+13-Nov-2022 23:23:53 INFO - null
+13-Nov-2022 23:23:53 INFO - null
+13-Nov-2022 23:28:44 INFO - null
+13-Nov-2022 23:28:44 INFO - null
+13-Nov-2022 23:28:48 INFO - null
+13-Nov-2022 23:28:48 INFO - null
+13-Nov-2022 23:28:49 INFO - null
+13-Nov-2022 23:28:49 INFO - null
+13-Nov-2022 23:28:55 INFO - null
+13-Nov-2022 23:28:55 INFO - null
+13-Nov-2022 23:29:38 INFO - null
+13-Nov-2022 23:29:38 INFO - null
+13-Nov-2022 23:29:40 INFO - null
+13-Nov-2022 23:29:41 INFO - null
+13-Nov-2022 23:30:04 INFO - null
+13-Nov-2022 23:30:04 INFO - null
+13-Nov-2022 23:30:05 INFO - null
+13-Nov-2022 23:30:05 INFO - null
+13-Nov-2022 23:30:08 INFO - null
+13-Nov-2022 23:30:08 INFO - null
+13-Nov-2022 23:30:13 INFO - null
+13-Nov-2022 23:30:13 INFO - null
+13-Nov-2022 23:30:15 INFO - null
+13-Nov-2022 23:30:15 INFO - null
+13-Nov-2022 23:31:20 INFO - null
+13-Nov-2022 23:31:20 INFO - null
+13-Nov-2022 23:31:27 INFO - null
+13-Nov-2022 23:31:27 INFO - null
+13-Nov-2022 23:32:18 INFO - nullCarddto [id=0, cardName=SNI, cardNumber=1234567890123456, bankName=SNI, expiryDate=2022-11-24]
+13-Nov-2022 23:32:23 INFO - null
+13-Nov-2022 23:32:23 INFO - null
+13-Nov-2022 23:35:03 INFO - null
+13-Nov-2022 23:35:03 INFO - null
+13-Nov-2022 23:35:05 INFO - null
+13-Nov-2022 23:35:05 INFO - null
+13-Nov-2022 23:35:05 INFO - null
+13-Nov-2022 23:35:19 INFO - null
+13-Nov-2022 23:35:19 INFO - null
+13-Nov-2022 23:35:22 INFO - null
+13-Nov-2022 23:35:22 INFO - null
+13-Nov-2022 23:35:25 INFO - null
+13-Nov-2022 23:35:25 INFO - null
+13-Nov-2022 23:35:46 INFO - null
+13-Nov-2022 23:35:46 INFO - null
+13-Nov-2022 23:35:47 INFO - null
+13-Nov-2022 23:35:47 INFO - null
+13-Nov-2022 23:35:50 INFO - null
+13-Nov-2022 23:35:50 INFO - null
+13-Nov-2022 23:36:38 INFO - nullCarddto [id=0, cardName=dasd, cardNumber=1234567890123456, bankName=asdsadas, expiryDate=2022-12-01]
+13-Nov-2022 23:36:41 INFO - null
+13-Nov-2022 23:36:41 INFO - null
+13-Nov-2022 23:36:46 INFO - null
+13-Nov-2022 23:36:46 INFO - null
+13-Nov-2022 23:37:32 INFO - null
+13-Nov-2022 23:37:47 INFO - null
+13-Nov-2022 23:37:58 INFO - null
+13-Nov-2022 23:51:15 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 4068 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+13-Nov-2022 23:51:16 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+13-Nov-2022 23:51:16 INFO - No active profile set, falling back to 1 default profile: "default"
+13-Nov-2022 23:51:35 INFO - null
+13-Nov-2022 23:51:35 INFO - null
+13-Nov-2022 23:51:39 INFO - null
+13-Nov-2022 23:51:39 INFO - null
+13-Nov-2022 23:51:43 INFO - null
+13-Nov-2022 23:51:43 INFO - null
+13-Nov-2022 23:51:44 INFO - null
+13-Nov-2022 23:51:44 INFO - null
+14-Nov-2022 00:34:14 INFO - Starting OnlineSsApplication using Java 17.0.4.1 on Farhan with PID 16632 (D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main\target\classes started by FK in D:\Downloads\Online-Salon-Service-main\Online-Salon-Service-main)
+14-Nov-2022 00:34:14 DEBUG - Running with Spring Boot v2.7.4, Spring v5.3.23
+14-Nov-2022 00:34:14 INFO - No active profile set, falling back to 1 default profile: "default"

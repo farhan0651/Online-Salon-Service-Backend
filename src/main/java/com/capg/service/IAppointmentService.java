@@ -17,4 +17,5 @@ public interface IAppointmentService{
 	public List<Appointmentdto> getAllAppointments()throws AppointmentServiceNotFoundException;
 	public List<Appointmentdto> getOpenAppointments()throws AppointmentServiceNotFoundException;;
 	
+	
 }

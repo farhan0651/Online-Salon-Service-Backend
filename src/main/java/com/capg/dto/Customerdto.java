@@ -12,7 +12,20 @@ import com.capg.entity.User1;
 public class Customerdto {
 
 	//@NotNull(message = "Please provide valid userId")
-	private Integer customerId;
+	private int customerId;
+	public int getCustomerId() {
+		return customerId;
+	}
+
+
+
+
+
+	public void setCustomerId(int customerId) {
+		this.customerId = customerId;
+	}
+
+
 	private String name;
 	private String email;
 	private String contactNo;
@@ -25,7 +38,7 @@ public class Customerdto {
 		Customerdto customer3 = new Customerdto();
 		customer3.setContactNo(customer2.getContactNo());
 		customer3.setDob(customer2.getDob());
-		customer3.setEmail(customer3.getEmail());
+		customer3.setEmail(customer2.getEmail());
 		customer3.setName(customer2.getName());
 		customer3.setUser1(customer2.getUser1());
 		customer3.setCustomerId(customer2.getCustomerId());
@@ -35,14 +48,7 @@ public class Customerdto {
 	}
 
 
-	public Integer getCustomerId() {
-		return customerId;
-	}
-
-
-	public void setCustomerId(Integer customerId) {
-		this.customerId = customerId;
-	}
+	
 
 
 	public String getName() {

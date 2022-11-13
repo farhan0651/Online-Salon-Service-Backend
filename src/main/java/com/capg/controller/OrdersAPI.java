@@ -55,6 +55,7 @@ public class OrdersAPI {
 		LOGGER.info(environment.getProperty("getAllOrders"));
 		return new ResponseEntity<>(orderList, HttpStatus.OK);
 	}
+	
 	@CrossOrigin(origins="http://localhost:3000")
 	@PostMapping(value = "/addOrder")
 	public ResponseEntity<String> addOrder(@Valid @RequestBody Ordersdto order) throws OrderAlreadyExistsException {
